@@ -1,0 +1,3906 @@
+[{
+  "_id": {
+    "$oid": "643d0e4dfcea590e88e43279"
+  },
+  "loan_name": "Business Loan",
+  "loan_data": [
+    {
+      "bank_name": "Bajaj Finserv",
+      "bank_decs": "Bajaj Finserv Ltd., an unregistered Core Investment Company (CIC) under Core Investment Companies (Reserve Bank) Direction, 2016, as amended, is one of India's leading promoters of financial services with a consolidated total income of over Rs. 77,000 crore for the calendar year 2022.",
+      "bank_logo": "/bankimages/bajajlogo.jpg",
+      "q1_mainheading": "Bajaj Finance Business Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Loan Type",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Unsecured Business Loan",
+          "q_subheading_data": "9.75%-30%"
+        },
+        {
+          "q_heading_data": "Business Loan for Chartered Accountant",
+          "q_subheading_data": "11%-18%"
+        },
+        {
+          "q_heading_data": "Business Loan for Doctors",
+          "q_subheading_data": "11%-18%"
+        },
+        {
+          "q_heading_data": "Medical Equipment Loan",
+          "q_subheading_data": "Up to 14%"
+        },
+        {
+          "q_heading_data": "Secured Business Loan",
+          "q_subheading_data": "9%-22%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Availing Bajaj Finance Business Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "For Unsecured Business Loans",
+          "q_subheading_data": "KYC Documents- Aadhaar card, Passport, PAN card, Voter ID Business ownership proof Other financial documents"
+        },
+        {
+          "q_heading_data": "For Business Loans for Chartered Accountants",
+          "q_subheading_data": "KYC Documents- Aadhaar card, PAN card, driving license, Voter ID, etc. Address Proof- Rent agreement, electricity bill, passport, etc. Certificate of practice"
+        },
+        {
+          "q_heading_data": "For Business Loans for Doctors",
+          "q_subheading_data": "KYC Documents- Aadhaar card, passport, voter ID, PAN card Certificate for Medical Registration"
+        },
+        {
+          "q_heading_data": "For Medical Equipment Loans",
+          "q_subheading_data": "ITR, P&L, Audited balance sheet for last 2 Current account statement for last 6 months"
+        }
+      ],
+      "q3_mainheading": "Bajaj Finance Business Loan Fees and Charges",
+      "q3": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "Up to 3.54% of loan amount"
+        },
+        {
+          "q_heading_data": "Prepayment Charges",
+          "q_subheading_data": "4.72%"
+        },
+        {
+          "q_heading_data": "Bounce Charges",
+          "q_subheading_data": "Rs 1,500 per bounce"
+        },
+        {
+          "q_heading_data": "Documents processing charges",
+          "q_subheading_data": "Rs 2,360"
+        },
+        {
+          "q_heading_data": "Penal Interest",
+          "q_subheading_data": "3.50% per month"
+        },
+        {
+          "q_heading_data": "Mandate rejection charges",
+          "q_subheading_data": "Rs 450 per month"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges",
+          "q_subheading_data": "Term Loan- 4.72%, Flexi Term Loan and Flexi Hybrid Loan- 4.72%"
+        },
+        {
+          "q_heading_data": "Annual Maintenance Charges",
+          "q_subheading_data": "Flexi Term Loan- 0.295%, Flexi Hybrid Loan- 1.18% during initial loan tenure and 0.295% during subsequent loan tenure"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for Bajaj Finance Business Loans",
+      "q4": [
+        {
+          "q_heading": "As per Your Employee Status",
+          "q_subheading1": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Bajaj Finance Unsecured Business Loan",
+          "q_subheading_data": "Applicant should be an Indian resident, Minimum age of the applicant should be 24 years at the time of loan application and 70 years at the time of loan maturity, Self-employed applicants with a business vintage of at least 3 years are eligible for such loans, Applicants with CIBIL score of 685 or greater usually have higher chances of availing Bajaj Finance Business Loans"
+        },
+        {
+          "q_heading_data": "For Business Loans for Chartered Accountants",
+          "q_subheading_data": "CA applying for business loan should have practiced for at least 2 years, Applicant should own an office or house in the city where Bajaj Finserv operates"
+        },
+        {
+          "q_heading_data": "For Business Loans for Doctors",
+          "q_subheading_data": "Doctors applying for Business Loan for Doctors should be Indian residents, Minimum age of the applicant should be 22 years at the time of loan application and 72 years at the end of loan tenure, The medical registration degree should be registered with the medical council, Doctors with CIBIL scores of 685 or higher have more chances of availing business loans"
+        },
+        {
+          "q_heading_data": "For Medical Equipment Loans",
+          "q_subheading_data": "Medical Equipment Loans are offered to individuals, diagnostic centres, IVF centres, pathology labs, nursing homes, super-speciality hospitals, endoscopy centres and dialysis centres, For borrowing loans above Rs 50 lakh to Rs 6 crore, applicant should have a business vintage of at least 2 years"
+        }
+      ]
+    },
+    {
+      "bank_name": "HDFC Bank",
+      "bank_decs": "HDFC is India's premier housing finance company and enjoys an impeccable track record in India as well as in international markets. Since its inception in 1977, the Corporation has maintained a consistent and healthy growth in its operations to remain the market leader in mortgages.",
+      "bank_logo": "/bankimages/hdfclogo.jpg",
+      "q1_mainheading": "HDFC Bank Business Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "For availing fresh business loans",
+          "q_subheading_data": "10% to 22.50% p.a."
+        },
+        {
+          "q_heading_data": "For business loans for professionals",
+          "q_subheading_data": "11.01% to 14% p.a."
+        },
+        {
+          "q_heading_data": "For balance transfer of existing business loans from other lenders",
+          "q_subheading_data": "15.75% p.a. onwards"
+        },
+        {
+          "q_heading_data": "For balance transfer of existing business loans for professionals from other lenders",
+          "q_subheading_data": "13.29% p.a. onwards"
+        },
+        {
+          "q_heading_data": "HDFC Bank Sustainable Livelihood Initiative",
+          "q_subheading_data": "11.50% to 19% p.a for SHG and 22% to 25% p.a for JLG"
+        }
+      ],
+      "q2_mainheading": "Documents required for HDFC Bank Business Loan",
+      "q2": [
+        {
+          "q_heading": "Business Loans for Manufacturers / Traders / Self-Employed / CA / Doctors / Professionals",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Identity proof (copy of any of the documents)",
+          "q_subheading_data": "Passport, Aadhaar Card, PAN Card, Voter’s ID Card, Driving Licence"
+        },
+        {
+          "q_heading_data": "Address proof (copy of any of the following documents):",
+          "q_subheading_data": "Aadhaar Card, Voter’s ID Card, Passport, Driving Licence"
+        },
+        {
+          "q_heading_data": "Other Mendatory Documents",
+          "q_subheading_data": "Last 6 month bank statements, Latest income tax returns (ITR) along with computation of income and financial statements (Balance Sheet and Profit & Loss account) of last 2 years, after being certified / audited by the CA, Qualification proof of highest professional degree (business loan for doctors and business loan for professionals), MCI Registration Proof (business loan for doctors), Proof of continuation like ITR, trade licence, establishment or sales tax certificate, Other mandatory documents including declaration of sole proprietorship, certified copy of partnership deed, copy of memorandum of association (MOA) & articles of association (AOA) certified by the director & Original board resolution "
+        }
+      ],
+      "q3_mainheading": "Fees and Charges for HDFC Bank Business Loans",
+      "q3": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing fees",
+          "q_subheading_data": "For availing fresh business loan: Up to 2% of loan amount*, For balance transfer of existing business loan from other lenders: Starting from 0.99%, Note: The bank does not charge processing fees for loans of up to Rs 5 lakh availed by Micro & Small Enterprises subject to Uniform Rules of Collection (URC) submission prior to disbursal"
+        },
+        {
+          "q_heading_data": "Pre-payment charges",
+          "q_subheading_data": "06 – 24 months: 4% of total principal outstanding, 25 – 36 months: 3% of total principal outstanding, More than 36 months: 2% of total principal outstanding, Note: The bank does not permit part/full prepayment of loans until repayment of at least 6 EMIs, The bank allows part-payment of up to 25% of the principal outstanding, after payment of 12 EMIs, once in the financial year and twice during the entire loan tenure., The bank does not levy any foreclosure/prepayment charges for fixed rate business loan facility of up to Rs. 50 Lakh availed by Micro & Small Enterprises (MSE) and closure from own sources "
+        },
+        {
+          "q_heading_data": "Overdue EMI Interest",
+          "q_subheading_data": "2% per month"
+        }
+      ],
+      "q4_mainheading": "The business loan eligibility criteria set for availing the HDFC Bank Business Loans are as follows:",
+      "q4": [
+        {
+          "q_heading": "As per Your Employee Status",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "HDFC Bank Business Loan for Manufacturers / Traders / Self-Employed / CA",
+          "q_subheading_data": "Self-employed individuals, proprietors, partnership firms, private limited companies and businesses involved in trading, manufacturing, or services, Age: 21 years (when applying for the loan) to 65 years (at the time of loan maturity), Minimum turnover of Rs 40 lakh, Loan applicants with business experience of 5 years, out of which at least 3 years should be in the current business, Businesses making profits for the last 2 years, Minimal Annual Income (as per the income tax returns) of Rs. 1.5 lakh p.a., The bank also considers the loan repayment history, CIBIL/credit score and existing relationship with the bank, along with the basic eligibility conditions, for availing business loans. "
+        },
+        {
+          "q_heading_data": "HDFC Bank Business Loan for Doctors",
+          "q_subheading_data": "Loan applicants should be practising / consulting doctors, Minimum 4 years of work experience post-degree (with at least 5 year work experience for physiotherapists post qualification), Age: 21 years (while applying for the business loan) to 65 years (at loan maturity), Minimum annual income of Rs 1 lakh p.a., Business must be profit making for the last 2 years."
+        },
+        {
+          "q_heading_data": "HDFC Bank Business Loan for Professionals",
+          "q_subheading_data": "Practising/consulting professionals such as doctors, physiotherapist, CA, architects and Company Secretaries (CS), Work Experience(CAs and doctors: 4 years post qualification, Architects and CS: 5 years post qualification, Physiotherapist: Minimum 5 years post qualification), Age: 25 years (while applying for the business loan) to 65 years (at loan maturity), Minimum annual income of Rs 1 lakh p.a., Business must be profit making for the last 2 years."
+        }
+      ]
+    },
+    {
+      "bank_name": "ICICI Bank",
+      "bank_decs": "ICICI was formed in 1955 at the initiative of the World Bank, the Government of India and representatives of Indian industry. The principal objective was to create a development financial institution for providing medium-term and long-term project financing to Indian businesses.",
+      "bank_logo": "/bankimages/icicilogo.jpg",
+      "q1_mainheading": "ICICI Bank Business Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "For secured facilities",
+          "q_subheading_data": "Up to 12.50% p.a. (Non-priority sector lending)"
+        },
+        {
+          "q_heading_data": "For ICICI Bank Insta Secured Overdraft",
+          "q_subheading_data": "10.70% p.a. (for loan amounts of up to Rs 40 lakh), 10.45% p.a. (for loan amounts above Rs 40 lakh)"
+        },
+        {
+          "q_heading_data": "ICICI Bank Business Loan Insta Overdraft for Savings Account",
+          "q_subheading_data": "17% p.a"
+        },
+        {
+          "q_heading_data": "ICICI Bank Business Loan Merchant Overdraft",
+          "q_subheading_data": "16% p.a."
+        }
+      ],
+      "q2_mainheading": "The documents required for availing different types of ICICI Bank business loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Self-attested copy of KYC Documents",
+          "q_subheading_data": "Entity proof – Partnership deed/Certificate of Incorporation/Shops and Establishment certificate, Copy of PAN Card of Entity, Proprietors/Partners/Directors, Security providers and guarantors, Address Proof of Entity, Proprietors/Partners/Directors, Security providers and guarantors"
+        },
+        {
+          "q_heading_data": "Financials",
+          "q_subheading_data": "Last 3 years audited or provisional financials. Audited financials include balance sheet, profit and loss account along with schedules and notes to accounts, tax audit reports, statutory audit report, etc.). VAT returns are required for provisional financials., Current year performance and projected turnover on letterhead of the entity, Last 1 year Income Tax returns of the borrowing entity (along with Computation of Income and copy of acknowledgement), if filed online, acknowledgement number is required"
+        },
+        {
+          "q_heading_data": "Bank Statements (up to 45 days old)",
+          "q_subheading_data": "Latest bank statements for last 6 months (for first time borrower), Latest bank statements for last 12 months (for takeover proposals)., For multiple banking, loan applicants must provide bank statements covering at least 75% of the total banking turnover. "
+        },
+        {
+          "q_heading_data": "For Term Loans:",
+          "q_subheading_data": "Project report with details about cost, means of finance, total expenditure incurred and projections, Government approvals for power, building plan, pollution along with documentary evidence, Proforma invoices of the assets to be purchased, copy of the allotment letter / conveyance deed for land, architect certificate for validating the total cost of building to be constructed"
+        }
+      ],
+      "q3_mainheading": "Fees and Charges for Business Loans from ICICI Bank",
+      "q3": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Concessions"
+        },
+        {
+          "q_heading_data": "Processing fees",
+          "q_subheading_data": "Up to 2% (plus applicable taxes) of the facility amount"
+        },
+        {
+          "q_heading_data": "Stamp duty and other statutory charges",
+          "q_subheading_data": "As per the applicable laws of every state"
+        },
+        {
+          "q_heading_data": "Commission on Letters of Credit and Bank Guarantee",
+          "q_subheading_data": "Up to 2% p.a. commission to be charged on pro-rata basis based on the loan tenure and the total amount of non-fund based facility being availed"
+        },
+        {
+          "q_heading_data": "Commitment Charges",
+          "q_subheading_data": "Based on the terms and conditions present in the sanction letter"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges",
+          "q_subheading_data": "Charged as per the terms and conditions mentioned in the sanction letter, No foreclosure charges for Micro and Small enterprises."
+        }
+      ],
+      "q4_mainheading": "The business loan eligibility criteria set for availing the HDFC Bank Business Loans are as follows:",
+      "q4": [
+        {
+          "q_heading": "As per Your Employee Status",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "ICICI Bank Business Loan for Manufacturers / Traders / Self-Employed / CA",
+          "q_subheading_data": "Self-employed individuals, proprietors, partnership firms, private limited companies and businesses involved in trading, manufacturing, or services, Age: 21 years (when applying for the loan) to 65 years (at the time of loan maturity), Minimum turnover of Rs 40 lakh, Loan applicants with business experience of 5 years, out of which at least 3 years should be in the current business, Businesses making profits for the last 2 years, Minimal Annual Income (as per the income tax returns) of Rs. 1.5 lakh p.a., The bank also considers the loan repayment history, CIBIL/credit score and existing relationship with the bank, along with the basic eligibility conditions, for availing business loans. "
+        },
+        {
+          "q_heading_data": "ICICI Bank Business Loan for Doctors",
+          "q_subheading_data": "Loan applicants should be practising / consulting doctors, Minimum 4 years of work experience post-degree (with at least 5 year work experience for physiotherapists post qualification), Age: 21 years (while applying for the business loan) to 65 years (at loan maturity), Minimum annual income of Rs 1 lakh p.a., Business must be profit making for the last 2 years."
+        },
+        {
+          "q_heading_data": "ICICI Bank Business Loan for Professionals",
+          "q_subheading_data": "Practising/consulting professionals such as doctors, physiotherapist, CA, architects and Company Secretaries (CS), Work Experience(CAs and doctors: 4 years post qualification, Architects and CS: 5 years post qualification, Physiotherapist: Minimum 5 years post qualification), Age: 25 years (while applying for the business loan) to 65 years (at loan maturity), Minimum annual income of Rs 1 lakh p.a., Business must be profit making for the last 2 years."
+        }
+      ]
+    },
+    {
+      "bank_name": "Axis Bank ",
+      "bank_decs": "Axis Bank is the third largest private sector bank in India. The Bank offers the entire spectrum of financial services to customer segments covering Large and Mid-Corporates, MSME, Agriculture and Retail Businesses.",
+      "bank_logo": "/bankimages/axislogo.jpg",
+      "q1_mainheading": "Interest Rates of Axis Bank Business Loan",
+      "q1": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Interest Rates (p.a.) (floating)"
+        },
+        {
+          "q_heading_data": "Overdraft",
+          "q_subheading_data": "12.50% – 13.50%"
+        },
+        {
+          "q_heading_data": "Cash credit",
+          "q_subheading_data": "12.50% – 13.50%"
+        },
+        {
+          "q_heading_data": "Term loan",
+          "q_subheading_data": "12.50% – 13.50%"
+        },
+        {
+          "q_heading_data": "Unsecured OD",
+          "q_subheading_data": "12.10% – 16.10%"
+        },
+        {
+          "q_heading_data": "Quick OD",
+          "q_subheading_data": "19.50% – 20.50%"
+        },
+        {
+          "q_heading_data": "CGTMSE",
+          "q_subheading_data": "15% – 16.25%"
+        },
+        {
+          "q_heading_data": "Unsecured merchant loan",
+          "q_subheading_data": "18% – 19%"
+        },
+        {
+          "q_heading_data": "Overdraft against FD",
+          "q_subheading_data": "11.50% – 12.50%"
+        }
+      ],
+      "q2_mainheading": "Axis Bank Business Loan Documents Required",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Axis Bank MSME Samriddhi Loans Documentation",
+          "q_subheading_data": "Application form, Financial statements, Business licence, KYC documents"
+        },
+        {
+          "q_heading_data": "Axis Bank Agpro Power Loan Documentation",
+          "q_subheading_data": "KYC documents, Application form, Income documents, Bank statement"
+        },
+        {
+          "q_heading_data": "Axis Bank Kisan Mitra Loan Documentation",
+          "q_subheading_data": "KYC documents, Application form, Income documents, Bank statement"
+        },
+        {
+          "q_heading_data": "Axis Bank Swift OD Loan Documentation",
+          "q_subheading_data": "Last 2 Years ITR along with computation of income Last Year’s Full Set of Financials (Audited or CA certified), KYC documents, Statement of operative account."
+        },
+        {
+          "q_heading_data": "Axis Bank Commodity Power Loan Documentation",
+          "q_subheading_data": "KYC documents, Application form, Income Documents, Statement of account"
+        },
+        {
+          "q_heading_data": "Axis Bank Commodity Lite Loan Documentation",
+          "q_subheading_data": "Latest one year full set of financials (Audited or CA certified), KYC documents, Statement of operative account"
+        },
+        {
+          "q_heading_data": "Axis Bank Commodity Quik Documentation",
+          "q_subheading_data": " CA certified /audited financials of one year, KYC documents"
+        },
+        {
+          "q_heading_data": "Axis Bank Cash and Credit Overdraft Documentation",
+          "q_subheading_data": "KYC Documents , uly filled in application form signed by the customer ,Relevant financial documents, Bank account statement of last 6 months, PAN card/Form 60, Business Proof "
+        },
+        {
+          "q_heading_data": "Axis Bank Merchant Loan Overdraft Documentation",
+          "q_subheading_data": " KYC Documents , Duly filled in application form signed by the customer, Relevant financial documents, Bank account statement of last 6 months, PAN card/Form 60, Business Proof"
+        },
+        {
+          "q_heading_data": "Axis Bank Business Loan (Unsecured) Documentation",
+          "q_subheading_data": "KYC Documents, Duly filled in application form signed by the customer, Relevant financial documents, Bank account statement of last 6 months, PAN card/Form 60, Business Proof "
+        },
+        {
+          "q_heading_data": "Axis Bank Unsecured Dropline Overdraft Documentation",
+          "q_subheading_data": "KYC Documents, Duly filled in application form signed by the customer, Relevant financial documents, Bank account statement of last 6 months, PAN card/Form 60, Business Proof "
+        },
+        {
+          "q_heading_data": "Axis Bank Medical Equipment Loan Documentation",
+          "q_subheading_data": "KYC Documents, Duly filled in application form signed by the customer, Relevant financial documents, Bank account statement of last 6 months , PAN card/Form 60, Degree certificate & registration certificate with MCI or State Medical Council, Pro forma invoice/ Quotation of equipment or machinery being purchased "
+        },
+        {
+          "q_heading_data": "Axis Bank Secured Quick Overdraft Documentation",
+          "q_subheading_data": "KYC Documents, Duly filled in application form signed by the customer , Relevant financial documents, Bank account statement of last 6 months, PAN card/Form 60, Business Proof "
+        },
+        {
+          "q_heading_data": "Axis Bank Zero  Collateral Loan Documentation",
+          "q_subheading_data": "Latest 12-month bank statements, Latest ITR and Financial statements, KYC documents and collateral details, Note: Additional documents may be requested based on Axis Bank Policies in accordance to the CGTMSE guidelines"
+        },
+        {
+          "q_heading_data": "Axis Bank Secured Quick Overdraft Documentation",
+          "q_subheading_data": "KYC Documents, Duly filled in application form signed by the customer , Relevant financial documents, Bank account statement of last 6 months, PAN card/Form 60, Business Proof "
+        },
+        {
+          "q_heading_data": "Axis Bank SME Plus Documentation",
+          "q_subheading_data": "Latest 12-month bank statements, Last 3 years Financial Statements, Latest ITR, KYC documents and collateral details , *Additional documents may be requested based on Axis Bank Policies "
+        }
+      ],
+      "q3_mainheading": "Fees and Charges of Axis Bank Business Loan",
+      "q3": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing fees",
+          "q_subheading_data": "0.75% of the loan amount + GST"
+        },
+        {
+          "q_heading_data": "Login fees",
+          "q_subheading_data": "Rs 5,000 + taxes"
+        },
+        {
+          "q_heading_data": "Prepayment/Foreclosure charges",
+          "q_subheading_data": "For cash credit/overdraft facility(NIL if loan is closed from Own Funds, 2% + taxes on sanctioned limit if loan is closed from borrowed funds), For term loan(NIL if loan is closed from Own Funds, 2% + taxes on principal outstanding if loan is closed from borrowed funds)"
+        },
+        {
+          "q_heading_data": "Penal interest",
+          "q_subheading_data": "Delay / non-submission of stock /book-debts statements: 6% p.a. on the outstanding amount in fund based working capital credit facilities from the date of default, Non-payment of interest /installment on due date /non-adherence to sanction terms & conditions: 6% p.a. on the amount of overdue instalment /interest /charges /drawings over limit, Expiry of working capital limits: 6% per annum on the outstanding amount of Fund-Based credit facilities."
+        },
+        {
+          "q_heading_data": "Cheque bounce charges",
+          "q_subheading_data": "Rs 500 per instance + GST"
+        }
+      ],
+      "q4_mainheading": "Axis Bank Business Loan Eligibility Criteria",
+      "q4": [
+        {
+          "q_heading": "As per Your Employee Status",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Axis Bank MSME Samriddhi Loans Eligibility",
+          "q_subheading_data": "Age: Between 18 to 75 years, Business vintage: Minimum 3 years with cash accruals for last 2 years, Constitution: Proprietorship/ Partnership/ Private limited companies/ Limited companies/ Limited liability Partnership, Entities having CA certified/ Audited balance sheets (ABS) "
+        },
+        {
+          "q_heading_data": "Axis Bank Business Loan (Unsecured) Eligibility Criteria",
+          "q_subheading_data": "Business vintage: Minimum 3 years, Turnover: Minimum Rs 30 lakh, Age: Minimum 21 years and maximum 65 years, Residence/Office(Either office or residential property should be owned, In case of rented accommodation, residence stability should be of at least 12 months, not applicable if shifted to owned house, Office stability should be of at least 24 months), Minimum income should Rs 2.5 lakhs as per ITR for last 2 years for individuals, Minimum cash profit should be Rs 3 lakhs for last 2 years for non-individuals "
+        },
+        {
+          "q_heading_data": "Axis Bank Medical Equipment Loan Eligibility Criteria",
+          "q_subheading_data": "Business vintage: Minimum 2 years in current profession, Business income: Minimum business income of Rs. 5 Lakhs, Age: Minimum 21 years and maximum 65 years, Residence/office stability(Either office or residential property is to be owned, Residence stability should be of at least 12 months, Office stability should be of at least 24 months) "
+        }
+      ]
+    },
+    {
+      "bank_name": "Kotak Mahindra Bank",
+      "bank_decs": "Kotak Mahindra Bank Limited is an Indian banking and financial services company headquartered in Mumbai. It offers banking products and financial services for corporate and retail customers in the areas of personal finance, investment banking, life insurance, and wealth management.",
+      "bank_logo": "/bankimages/kotaklogo.jpg",
+      "q1_mainheading": "Kotak Mahindra Bank Business Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Interest Rates (p.a.) (floating)"
+        },
+        {
+          "q_heading_data": "Kotak Mahindra Business Loan",
+          "q_subheading_data": "16.00%-19.99%"
+        },
+        {
+          "q_heading_data": "Commercial Vehicle Loan",
+          "q_subheading_data": "24%"
+        },
+        {
+          "q_heading_data": "Construction Equipment Loan",
+          "q_subheading_data": "24%"
+        },
+        {
+          "q_heading_data": "Tractor and Farm Equipment Loan",
+          "q_subheading_data": "26%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Kotak Mahindra Bank Business Loans",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Kotak Mahindra Bank Business Loans",
+          "q_subheading_data": "ID Proof- PAN Card, Passport, Driving License, Aadhaar Card, Voter ID, Address Proof- Passport, Driving License, Voter ID, Aadhaar Card, Bank Statement, Utility Bill, Bank Account Passbook not more than 3 months old, Ownership Proof- Electricity bill, maintenance bill, agreement copy, municipal tax bill, share certificate, Business Continuity Proof- Shop and establishment certificate, tax registrations-VAT, Service tax, GST registration, Firm Constitution- Partnership deed, MOA, GST registration certificate, Bank statement of business account for last 6 months, Financials of last 2 years, Latest tax audit report"
+        },
+        {
+          "q_heading_data": "Kotak Mahindra Bank Commercial Vehicle Loan",
+          "q_subheading_data": "Audited financial statements for 2 years, ITR, latest provisional, Bank statement for past 6 months, ID proof, address proof, signature verification of applicant and guarantor, Maintenance and electricity bill, Billing copies, transportation contract copies, partnership deed, Memorandum and articles of association, trust deed, Details of existing loans and repayment track record, List of existing vehicles, Business stability proof"
+        },
+        {
+          "q_heading_data": "Kotak Mahindra Bank Construction Equipment Loans",
+          "q_subheading_data": "KYC Documents, Photographs, Bank statement for last 6 months, Address Proof (Residential and Office), Repayment track records, Latest loan position, Certified work orders or contracts in hand, Work in hand for contractors, Performa Invoice, List of assets for plant hirers, Past equipment ownership proof with free and finance details, Financials along with ITR, for last 2 years and provisional financial statement or key figures"
+        },
+        {
+          "q_heading_data": "Kotak Mahindra Bank Farm Equipments",
+          "q_subheading_data": "ID Proof and Address Proof- PAN card, Voter ID, Passport, Aadhaar card, Driving License, Agricultural land proof if available, Signature verification proof, Original invoice of the tractor purchased from the dealer, Fully executed loan documents, Insurance pledged to Kotak Mahindra Bank, Margin Money Receipt received from dealer"
+        }
+      ],
+      "q3_mainheading": "Kotak Mahindra Bank Business Loan Fees and Charges",
+      "q3": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing fees",
+          "q_subheading_data": "Up to 2%"
+        },
+        {
+          "q_heading_data": "Documentation Charges",
+          "q_subheading_data": "Loan amount up to Rs 10 lakh- Rs 3,500, Loan amount above Rs 10 lakh- Rs 6,000, FCCR/RFCCR(Loan amount up to Rs 10 lakh- Rs 3,500, Loan amount above Rs 10 lakh- Rs 7,000)"
+        },
+        {
+          "q_heading_data": "Cheque dishonour Charges",
+          "q_subheading_data": "Rs 750"
+        },
+        {
+          "q_heading_data": "Account swap charges",
+          "q_subheading_data": "Rs 500"
+        },
+        {
+          "q_heading_data": "Charges for copy of any document",
+          "q_subheading_data": "Rs 500"
+        },
+        {
+          "q_heading_data": "No dues certificate",
+          "q_subheading_data": "Rs 500"
+        },
+        {
+          "q_heading_data": "Prepayment Charges",
+          "q_subheading_data": "Up to 4% of outstanding amount"
+        },
+        {
+          "q_heading_data": "Penal Interest",
+          "q_subheading_data": "Up to 3%"
+        },
+        {
+          "q_heading_data": "Collection Charges",
+          "q_subheading_data": "Up to 3%"
+        },
+        {
+          "q_heading_data": "Annual review charges",
+          "q_subheading_data": "Up to 2%"
+        },
+        {
+          "q_heading_data": "Termination Charges",
+          "q_subheading_data": "Up to 4%"
+        }
+      ],
+      "q4_mainheading": "Eligibility for Kotak Mahindra Business Loans",
+      "q4": [
+        {
+          "q_heading": "As per Category",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Kotak Mahindra Business Loans",
+          "q_subheading_data": "Applicant should be at least 25 years of age at the time of loan application and up to 65 years old at the time loan maturity, Sole proprietors, partnership firms, private limited company, trust and limited liability partnership involved in the business of manufacturing, trading and services are eligible for Kotak Mahindra Bank business loans, The business should have generated profit for at least 1 year, The applicant should have been in the business for past 3 years with turnover of at least Rs 40 lakh"
+        },
+        {
+          "q_heading_data": "Kotak Mahindra Bank Commercial Vehicle Finance",
+          "q_subheading_data": "Applicant should be an individual, company or partnership firm with more than 2 years of experience in business, Individuals with at least 12 months of experience in the field are also eligible for commercial vehicle finance, Applicant should be a local resident for minimum 2 years in the approved location, Captive customers, transporters and educational institutions are eligible for such loans, First time owners are financed at the discretion of the bank "
+        },
+        {
+          "q_heading_data": "Kotak Mahindra Bank Construction Equipment Loans",
+          "q_subheading_data": "Any individual, partnership firm or company with more than 1 year of business stability is eligible for Construction Equipment Loans, Captive customers, contractors and plant hirers can avail such loans, Applicant can have a Guarantee or co-borrower, Applicant should be a local resident"
+        },
+        {
+          "q_heading_data": "Kotak Mahindra Bank Farm Equipment Loan",
+          "q_subheading_data": "Individual having at least 3 acres of land in his/her name is eligible for Farm Equipment Loan, Applicant should have residential stability of 2 years an 2 years of business experience"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tata Capital",
+      "bank_decs": "Tata Capital and its subsidiaries are engaged in providing/supplying a wide array of services/products in the financial services sector and operates across various areas of business: Commercial Finance, Consumer Loans, Wealth Services and distribution and marketing of Tata Cards.",
+      "bank_logo": "/bankimages/tatalogo.jpg",
+      "q1_mainheading": "Tata Capital Business Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Interest Rates (p.a.) (floating)"
+        },
+        {
+          "q_heading_data": "Tata Capital Business Loan for Self-Employed Doctors",
+          "q_subheading_data": "12% to 15% p.a."
+        },
+        {
+          "q_heading_data": "Tata Capital Business Loan for Self-Employed Professionals other than Doctors",
+          "q_subheading_data": "13.00% to 17.50% p.a."
+        },
+        {
+          "q_heading_data": "Tata Capital Business Loan for Self-Employed Non-Professionals",
+          "q_subheading_data": "15% to 25% p.a."
+        },
+        {
+          "q_heading_data": "Tata Capital Business Loan for Women",
+          "q_subheading_data": "15% – 25% p.a. (for self-employed non-professionals), 12% – 15% p.a. (for self-employed doctors) and 13% to 17.50% p.a. (for self-employed professionals other than doctors)"
+        },
+        {
+          "q_heading_data": "Tata Capital Business Loan for Machinery",
+          "q_subheading_data": "15% p.a. onwards"
+        },
+        {
+          "q_heading_data": "Tata Capital Business Loan for MSME/SME",
+          "q_subheading_data": "15% p.a. onwards"
+        }
+      ],
+      "q2_mainheading": "Documents required for Tata Capital Business Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Tata Capital Business Loan",
+          "q_subheading_data": "Photo ID proof (Aadhar card, Driving licence, Voter ID or Passport), Last 6 months bank statements of the company, Last 2 years Income Tax Returns, Financial statements (Balance Sheet and Profit & Loss account) of last 2 years, KYC documents of the business and business owners, A report with detailed plan of how the loan applicant will utilise the business Loan, Bank statements, Business proof: Trade License, Sales Tax Certificate, Sole Proprietorship Declaration, Partnership Deed, Income Tax Returns along with computation for last 2 years or financial statements (Profit and Loss Statement and Balance Sheet) for the last two years, Duly filled application form with 2 passport sized photographs"
+        },
+        {
+          "q_heading_data": "Tata Capital Lease Rental Discounting Facility",
+          "q_subheading_data": "Registered/Unregistered Lease Agreement between Lessor and Lessee, Property documents/sale deed/agreement to sale of the property to be leased/offered as security, Valuation of the property to be offered as security/lease property, Title search report to establish the rightful ownership of the property under the Lease Rental DIscounting facility."
+        },
+        {
+          "q_heading_data": "Tata Capital Business Loan for Equipment Financing and Leasing",
+          "q_subheading_data": "Purchase invoice for machinery/equipment, KYC and CIBIL record of the company and its directors, Bank statements for the last 12 months of business, Books of Accounts/audited financials for the previous 3 years of business, Sales data for the last 12 months, Existing Loan Declaration, Residence/office proof"
+        }
+      ],
+      "q3_mainheading": "Fees and Charges for Tata Capital Business Loans",
+      "q3": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing fees",
+          "q_subheading_data": "Up to 2.75% of the loan amount plus GST"
+        },
+        {
+          "q_heading_data": "Foreclosure charges",
+          "q_subheading_data": "4.5% on future principal outstanding on existing loan plus GST, No foreclosure allowed for the first 9 months"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges for Top-up",
+          "q_subheading_data": "2.25% on future principal outstanding on the existing loan + GST, Foreclosure charges shall be levied only if new rate is lower than the existing rate"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges in CCOD Cases",
+          "q_subheading_data": "4.5% on the dropped down limit amount + GST, No foreclosure is allowed for first 9 months"
+        },
+        {
+          "q_heading_data": "Penal or additional interest rate",
+          "q_subheading_data": "3% on the overdue amount per month plus GST"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for Availing Tata Capital Business Loan",
+      "q4": [
+        {
+          "q_heading": "As per Category",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Tata Capital business loan",
+          "q_subheading_data": "Sole proprietorship, partnership firm, private limited companies, closely held public limited companies, societies, trusts, hospitals, nursing homes, diagnostic centres and pathological labs., Age: Between 25 to 65 years, Business should be profitable for 3 consecutive financial years, Business turnover must show an upward trend, CIBIL/credit score should be 700 or above, Balance Sheet and Profit & Loss Account audited by a registered CA"
+        }
+      ]
+    },
+    {
+      "bank_name": "Hero FinCorp",
+      "bank_decs": "Hero FinCorp, an associate company of Hero MotoCorp, is an Indian Non-banking financial company (NBFC). The company is currently engaged in consumer finance businesses and commercial lending.",
+      "bank_logo": "/bankimages/hero2logo.jpg",
+      "q1_mainheading": "Hero FinCorp Business Loan Highlights – April 2023",
+      "q1": [
+        {
+          "q_heading": "Interest Rate",
+          "q_subheading": "Up to 26% p.a. – Depends on business requirements"
+        },
+        {
+          "q_heading_data": "Eligible Entities",
+          "q_subheading_data": "Traders, Wholesalers, Manufacturers, Retailers, Distributors or B2B service providers, Public and Private firms, Sole Proprietorships and Self-employed professionals"
+        },
+        {
+          "q_heading_data": "Loan Amount",
+          "q_subheading_data": "From Rs. 3 lakh to Rs. 40 lakh (Unsecured Business Loan), From Rs. 5 lakh to Rs. 25 lakh (Secured Business Loan)"
+        },
+        {
+          "q_heading_data": "Repayment Tenure",
+          "q_subheading_data": "Up to 60 months (Unsecured Business Loan), Up to 36 months (Secured Business Loan)"
+        },
+        {
+          "q_heading_data": "Tata Capital Business Loan for Women",
+          "q_subheading_data": "15% – 25% p.a. (for self-employed non-professionals), 12% – 15% p.a. (for self-employed doctors) and 13% to 17.50% p.a. (for self-employed professionals other than doctors)"
+        },
+        {
+          "q_heading_data": "Credit Score",
+          "q_subheading_data": "Higher is the CIBIL score, more are the chances of approval"
+        },
+        {
+          "q_heading_data": "Collateral / Security",
+          "q_subheading_data": "Not required, except Secured Term Loan"
+        }
+      ],
+      "q2_mainheading": "Documents required for Hero FinCorp Business Loan",
+      "q2": [
+        {
+          "q_heading": "Documents Required ",
+          "q_subheading": "Duly filled application form with PAN card,.Identity Proof: Voter ID Card, Photo ID issued by GOI, Passport, Driving Licence, Aadhaar Card, Address Proof: Aadhaar Card, Voter ID Card, Property Tax Receipt, Driving Licence, Utility Bill, Registry Copy, Property Tax Receipt, Lease or Rent Agreement, Business Continuity Proof: VAT, Excise, Sales Tax, Service Tax Registration, Trade License, Copy of partnership deed, Registration Certificate issued by RBI or SEBI, Certificate of Practice, Signature Proof: Banker’s Verification/ Passport/ PAN Card, Income Proof: Latest ITR, GST returns for the financial year, Latest audited financials, Last 6 months bank statement, Additional Documents, if applicable: List of Directors, Shareholding patterns"
+        }
+      ],
+      "q3_mainheading": "Fees and Charges forHero FinCorp Business Loans",
+      "q3": [
+        {
+          "q_heading": "Types of Charges",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Pre-payment Charges",
+          "q_subheading_data": "Allowed only after 12 months of the loan sanction, Charges will be applicable as mentioned in the sanction letter"
+        },
+        {
+          "q_heading_data": "Repayment Swap Charges",
+          "q_subheading_data": "Rs. 5000"
+        },
+        {
+          "q_heading_data": "Loan Rescheduling Charges",
+          "q_subheading_data": "Rs. 5000"
+        },
+        {
+          "q_heading_data": "Bounce Charges (per transaction)",
+          "q_subheading_data": "Rs. 5000"
+        },
+        {
+          "q_heading_data": "Default Interest",
+          "q_subheading_data": "2% of loan overdue amount per month"
+        },
+        {
+          "q_heading_data": "Account Statement/ Amortization Schedule",
+          "q_subheading_data": "NIL"
+        },
+        {
+          "q_heading_data": "Foreclosure Letter Issuance",
+          "q_subheading_data": "Rs. 1000"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for Availing Hero FinCorp Business Loan",
+      "q4": [
+        {
+          "q_heading": "As per Category",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Age",
+          "q_subheading_data": "Minimum 21 years and maximum 65 years at time of loan maturity"
+        },
+        {
+          "q_heading_data": "Business Vintage",
+          "q_subheading_data": "Minimum 5 years SMEs"
+        },
+        {
+          "q_heading_data": "Minimum Income",
+          "q_subheading_data": "Not defined by Hero Fincorp"
+        },
+        {
+          "q_heading_data": "Occupation:",
+          "q_subheading_data": "Self-employed Professionals: Architects/ Chartered Accountants/ Doctors/ Company Secretaries, Self-employed Non-Professionals: Sole Proprietors/ Retailers/ Traders/ Manufacturers/ Service Providers, Entities: Limited Liability Partnership (LLPs)/ Private Limited Company/ Partnership Firms/ Trusts"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643fce1fa56c14fc4face340"
+  },
+  "loan_name": "Loan Against Property",
+  "loan_data": [
+    {
+      "bank_name": "Bajaj Finserv",
+      "bank_decs": "Bajaj Finserv Ltd., an unregistered Core Investment Company (CIC) under Core Investment Companies (Reserve Bank) Direction, 2016, as amended, is one of India's leading promoters of financial services with a consolidated total income of over Rs. 77,000 crore for the calendar year 2022.",
+      "bank_logo": "/bankimages/bajajlogo.jpg",
+      "q1_mainheading": "Bajaj Finserv Loan Against Property Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Loan Type",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Loan Against Property for Salaried & Self–Employed Professionals",
+          "q_subheading_data": "10.10%-15.00%"
+        },
+        {
+          "q_heading_data": "Balance Transfer for Salaried & Self–Employed Professionals",
+          "q_subheading_data": "10.20%-15.00%"
+        },
+        {
+          "q_heading_data": "Loan Against Property for Self–Employed Borrowers",
+          "q_subheading_data": "9.75%-18.00%"
+        },
+        {
+          "q_heading_data": "Balance Transfer for Self–Employed Borrowers",
+          "q_subheading_data": "9.85%-18.00%"
+        },
+        {
+          "q_heading_data": "Developer Loan for Developer Finance/Lease Rental Discounting",
+          "q_subheading_data": "9.75%-15.00%"
+        },
+        {
+          "q_heading_data": "Lease Rental Discounting for Developer Finance/Lease Rental Discounting",
+          "q_subheading_data": "8.50%-13.00%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Bajaj Housing Loan Against Property",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "For Salaried Individuals",
+          "q_subheading_data": "Latest salary-slips, Last 3 months Bank Account Statements, PAN card or Form 60 of all applicants, ID Proof, Address Proof, Copy of the documents of the property that is to be mortgaged, IT Returns, Title documents"
+        },
+        {
+          "q_heading_data": "Previous 6 months primary bank account statements, PAN card or Form 60 of all applicants, ID , Address Proof, Income documents like financial statements/ITR, etc, Copy of the documents of the property that is to be mortgaged, Title documents"
+        },
+        {
+          "q_heading_data": "For Business Loans for Doctors",
+          "q_subheading_data": "KYC Documents- Aadhaar card, passport, voter ID, PAN card Certificate for Medical Registration"
+        },
+        {
+          "q_heading_data": "Other",
+          "q_subheading_data": "Apart from the above-mentioned documents, the housing finance may also ask for additional loan aganist property documents of the applicants based on their credit profiles."
+        }
+      ],
+      "q3_mainheading": "Bajaj Housing Loan Against Property Fees & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "LAP for salaried applicants",
+          "q_subheading_data": "0.3%-0.4%"
+        },
+        {
+          "q_heading_data": "LAP Balance Transfer/Fresh for self-employed applicants",
+          "q_subheading_data": "1%"
+        },
+        {
+          "q_heading_data": "Foreclosure charges for Term Loan",
+          "q_subheading_data": "4% on principal outstanding"
+        },
+        {
+          "q_heading_data": "Foreclosure charges for Flexi Loan",
+          "q_subheading_data": "4% on available flexi loan limit"
+        },
+        {
+          "q_heading_data": "Foreclosure charges for Flexi Hybrid Loan",
+          "q_subheading_data": "4% on sanctioned amount during flexi interest only loan repayment tenure; and 4% on the available flexi loan limit during flexi term loan tenure"
+        },
+        {
+          "q_heading_data": "Part-prepayment charges for Term Loan ",
+          "q_subheading_data": "2%* on the part-payment amount"
+        },
+        {
+          "q_heading_data": "Part-prepayment charges for Flexi Loan ",
+          "q_subheading_data": "NIL"
+        },
+        {
+          "q_heading_data": "Part-prepayment charges for Flexi Hybrid Loan",
+          "q_subheading_data": "NIL"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria of Bajaj Housing Loan Against Property",
+      "q4": [
+        {
+          "q_heading": "For salaried applicants:",
+          "q_subheading": "Resident Indian citizens, Age: 23 to 62 years at the time of the loan maturity, Working in public companies/private companies/MNCs with at least 3 years of experience"
+        },
+        {
+          "q_heading_data": "For self-employed individuals:",
+          "q_subheading_data": "Resident Indian citizens, Age: 25 to 70 years at the time of the loan maturity, Applicant should have a steady source of income"
+        }
+      ]
+    },
+    {
+      "bank_name": "HDFC Bank",
+      "bank_decs": "HDFC is India's premier housing finance company and enjoys an impeccable track record in India as well as in international markets. Since its inception in 1977, the Corporation has maintained a consistent and healthy growth in its operations to remain the market leader in mortgages.",
+      "bank_logo": "/bankimages/hdfclogo.jpg",
+      "q1_mainheading": "HDFC Loan Against Property Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Loan Slab",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Self occupied residential property",
+          "q_subheading_data": "9.35%-9.75%"
+        },
+        {
+          "q_heading_data": "Non-self occupied residential property",
+          "q_subheading_data": "9.85%-11.00%"
+        },
+        {
+          "q_heading_data": "Commercial property",
+          "q_subheading_data": "9.85%-12.25%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for HDFC Loan Against Property",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "For Salaried",
+          "q_subheading_data": "ID/Residence Proof: PAN card, Aadhaar card, passport, voter ID, driving license, Income Proof: Salary slips for last 3 months, salary account statement for last 6 months, Form 16/ITR, Property Documents: Approved plan, no encumbrance proof, title deeds including previous property documents, Other Documents: Employment contract/appointment letter, last 6 months’ bank account statement showing loan repayment history, processing fee cheque, own contribution proof, documents and declaration stating the end use of loan"
+        },
+        {
+          "q_heading_data": "For Self-Employed",
+          "q_subheading_data": "ID/Residence Proof: Aadhaar card, voter ID, driving license, PAN card, Passport size photographs, Income Proof: ITR for last 3 years along with income computation, balance sheet and profit and loss account statements for last 3 years with schedules/annexures, savings account statement and current account statement of business entity for past 6 months, Property Documents: No encumbrance proof, approved plan, title deeds including previous property documents, Business profile, Form 26AS, Memorandum and Article of Association, List of shareholders and directors with the individual , shareholding certified the CA/CS, If the business entity is a partnership firm, partnership deed is required, Details of current ongoing loans of the business entity and individuals, Declaration and documents mentioning the end use of loan, Processing fee cheque, Own contribution proof"
+        }
+      ],
+      "q3_mainheading": "HDFC Loan Against Property Fees and Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Charges",
+          "q_subheading_data": "1.50% of loan amount or Rs 4,500, whichever is higher"
+        },
+        {
+          "q_heading_data": "Prepayment charges",
+          "q_subheading_data": "NIL"
+        },
+        {
+          "q_heading_data": "Dishonour charges",
+          "q_subheading_data": "Up to Rs 300"
+        },
+        {
+          "q_heading_data": "Documents list",
+          "q_subheading_data": "Up to Rs 500"
+        },
+        {
+          "q_heading_data": "Disbursement cheque cancellation charge",
+          "q_subheading_data": "Up to RS 500"
+        },
+        {
+          "q_heading_data": "PDC swap",
+          "q_subheading_data": "Up to Rs 500"
+        },
+        {
+          "q_heading_data": "Documents photo copy",
+          "q_subheading_data": "Up to Rs 500"
+        },
+        {
+          "q_heading_data": "Loan re-appraisal after 6 months of sanction",
+          "q_subheading_data": "Up to Rs 2000"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Loan Against Property",
+          "q_subheading_data": "Age: 21-65 years, Nationality: Indian residents, Profession: Salaried/Self-Employed Professionals (doctors, lawyers, CAs, architect, consultant, engineer, CS, etc.)/Self-Employed Non-Professionals (Commission agent, trader, contractor, etc.)"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for HDFC Loan Against Property"
+    },
+    {
+      "bank_name": "ICICI Bank",
+      "bank_decs": "ICICI was formed in 1955 at the initiative of the World Bank, the Government of India and representatives of Indian industry. The principal objective was to create a development financial institution for providing medium-term and long-term project financing to Indian businesses.",
+      "bank_logo": "/bankimages/icicilogo.jpg",
+      "q1_mainheading": "ICICI Bank Loan Against Property Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Loan Slab",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Loan Against Property For Salaried Borrowers",
+          "q_subheading_data": "10.85%-12.00%%"
+        },
+        {
+          "q_heading_data": "Non-Residential Premises For Salaried Borrowers",
+          "q_subheading_data": "10.85%-12.00%"
+        },
+        {
+          "q_heading_data": "Lease Rental Discounting For Salaried Borrowers",
+          "q_subheading_data": "10.85%-12.00%"
+        },
+        {
+          "q_heading_data": "Loan Against Property For Self-Employed Borrowers",
+          "q_subheading_data": "10.85%-12.50%"
+        },
+        {
+          "q_heading_data": "Non-Residential Premises For Self-Employed Borrowers",
+          "q_subheading_data": "10.85%-12.50%"
+        },
+        {
+          "q_heading_data": "Lease Rental Discounting For Self-Employed Borrowers",
+          "q_subheading_data": "10.85%-12.50%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for ICICI Bank Loan Against Property",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Required Documents",
+          "q_subheading_data": "ID and residence proof (Aadhaar card, passport, voter ID, PAN card), Income Proof (salary slips, bank account statements, ITR), Property documents (Title deed, along with previous chain of documents from previous owner in case of any property approval plan and no encumbrance document)"
+        },
+        {
+          "q_heading_data": "Other Documents",
+          "q_subheading_data": "In case of an ongoing loan, loan repayment history for last 6 months, Appointment letter if employed for less than a year, Passport size photographs"
+        }
+      ],
+      "q3_mainheading": "ICICI Bank Loan Against Property Fees and Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Charges",
+          "q_subheading_data": "Up to 1% of loan amount"
+        },
+        {
+          "q_heading_data": "Prepayment charges",
+          "q_subheading_data": "4%"
+        },
+        {
+          "q_heading_data": "CIBIL report charges",
+          "q_subheading_data": "Rs 50"
+        },
+        {
+          "q_heading_data": "Administrative Charges",
+          "q_subheading_data": "Rs 5,000+GST or 0.25% + GST, whichever is lower"
+        },
+        {
+          "q_heading_data": "Conversion Charges",
+          "q_subheading_data": "0.5% of outstanding loan For permanently shifting from fixed to floating interest rate: 1.75%"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Loan Against Property",
+          "q_subheading_data": "Age: 25-65 years or retirement age, Salaried and self-employed individuals are eligible for loan against property"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for ICICI Bank Loan Against Property"
+    },
+    {
+      "bank_name": "Kotak Mahindra Bank ",
+      "bank_decs": "Kotak Mahindra Bank Limited is an Indian banking and financial services company headquartered in Mumbai. It offers banking products and financial services for corporate and retail customers in the areas of personal finance, investment banking, life insurance, and wealth management.",
+      "bank_logo": "/bankimages/kotaklogo.jpg",
+      "q1_mainheading": "Kotak Mahindra Bank Loan Against Property Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Employment Type",
+          "q_subheading": "Rate of Interest"
+        },
+        {
+          "q_heading_data": "Salaried",
+          "q_subheading_data": "9.15% p.a. onwards"
+        },
+        {
+          "q_heading_data": "Self-employed",
+          "q_subheading_data": "9.15% p.a. onwards"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Kotak Mahindra Bank Loan Against Property",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "or Proprietor/Firm/Company",
+          "q_subheading_data": "PAN Card (mandatory), ID Proof: Aadhaar card/Voter ID/Driving license/Passport, Address Proof: Passport/Driving license/Utility bills/bank statement/bank account passbook, Ownership Proof: Electricity bill/Agreement copy/Share certificate/Municipal Tax Bill/Maintenance bill with share certificate, Business Continuity Proof: GST registrations/Service tax/Shop and Establishment certificate/Tax registrations , Firm Constitution: MOA/AOA/GST Registration Certificate/partnership deed/Form 32, Banking: Bank statement for last 1 year"
+        },
+        {
+          "q_heading_data": "As per Program",
+          "q_subheading_data": "Financial: Audit Financials for past 3 years, GST, Tax audit report for last 3 years, Breakup of all unsecured and secured loans, Directors’ list and shareholding pattern as on date, Sanction letters of existing loans and Bank account statement showing the repayment history for last 1 year"
+        },
+        {
+          "q_heading_data": "Additional documents for Salaried Applicants",
+          "q_subheading_data": "Relationship proof, As per program , Financials: Salary slips for last 3 months, Form 16 recent, Employment proof (if the name of the current employer does not match with that mentioned in Form 16), Banking: Bank statement for last 6 months showing loan repayments and salary credited"
+        }
+      ],
+      "q3_mainheading": "Fees and Charges for Kotak Mahindra Bank Loan Against Property",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Documentation Charges",
+          "q_subheading_data": "Rs 10,000 + GST"
+        },
+        {
+          "q_heading_data": "Documents’ copy",
+          "q_subheading_data": "Rs 500"
+        },
+        {
+          "q_heading_data": "Repayment mode/account swap charges",
+          "q_subheading_data": "Rs 500"
+        },
+        {
+          "q_heading_data": "Instrument dishonor charges",
+          "q_subheading_data": "Rs 500"
+        },
+        {
+          "q_heading_data": "Penal interest",
+          "q_subheading_data": "2% per month"
+        },
+        {
+          "q_heading_data": "Prepayment charges",
+          "q_subheading_data": "NIL for Term Loans given to Individual Borrowers for non-business end use and For certified Micro & Small Enterprises (MSE) borrowers(If the loan is  from own source of fund: NIL If loan is closed from borrowed funds: 3% of the prepayment/foreclosure amount, Others (Individual borrowers for business end use and Non-individual borrowers(For Lock-in Period of 6 months after EMI Commencement- NIL, Post lock– in period, part prepayment of minimum Rs. 25,000 and maximum of up to 25% of outstanding loan amount can be made without any prepayment charges every 6 months, Minimum period between any two prepayment- 6 months, For any Part Prepayment in excess of 25% of outstanding loan amount: 3% of the excess prepayment amount, For Full Prepayment any time after the Lock-in-Period: 3% of the Foreclosure Loan amount plus amounts prepaid during the last 12 months)"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "For Salaried Applicants",
+          "q_subheading_data": "Age: 21-60 years, Minimum Income: Salary above 1.8 lakh per annum"
+        },
+        {
+          "q_heading_data": "Age: 18-60 years, Qualification: Graduate degree required if working in a private limited company or a partnership firm, but not required if working in a public limited company, Minimum Monthly Income: Above Rs 40,000"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for Kotak Mahindra Bank Loan Against Property"
+    },
+    {
+      "bank_name": "State Bank of India (SBI)",
+      "bank_decs": "State Bank of India (SBI) a Fortune 500 company, is an Indian Multinational, Public Sector Banking and Financial services statutory body headquartered in Mumbai. The rich heritage and legacy of over 200 years, accredits SBI as the most trusted Bank by Indians through generations.",
+      "bank_logo": "/bankimages/sbilogo.jpg",
+      "q1_mainheading": "SBI Loan Against Property (LAP) Interest Rates",
+      "q1": [
+        {
+          "q_heading": "CIBIL Score",
+          "q_subheading": "Rate of Interest"
+        },
+        {
+          "q_heading_data": ">=800",
+          "q_subheading_data": "10.60%"
+        },
+        {
+          "q_heading_data": "750-799",
+          "q_subheading_data": "10.70%"
+        },
+        {
+          "q_heading_data": "700-749",
+          "q_subheading_data": "10.80%"
+        },
+        {
+          "q_heading_data": "650-699",
+          "q_subheading_data": "11.20%"
+        },
+        {
+          "q_heading_data": "550-649",
+          "q_subheading_data": "11.30%"
+        },
+        {
+          "q_heading_data": "NTC/No CIBIL/-1",
+          "q_subheading_data": "11.10%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for SBI Loan Against Property",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Documents",
+          "q_subheading_data": "Employer ID card, Duly filled application form, ID proof: Aadhaar card/PAN card/driving license/passport/voter ID, Residence/Address proof"
+        },
+        {
+          "q_heading_data": "Property Documents",
+          "q_subheading_data": "Construction permit, Registered sale agreement (only for Maharashtra)/Stamped sale agreement/Allotment letter, Occupancy certificate, Share certificate (only Maharashtra)/electricity bill/maintenance bill/property tax receipt, Bank account statements or payment receipt showing the payments made to the builder"
+        },
+        {
+          "q_heading_data": "Account Statement",
+          "q_subheading_data": "Bank account statement for past 6 months, Loan repayment history for 1 year if any previous loans from other lenders"
+        },
+        {
+          "q_heading_data": "Income Proofs For Salaried",
+          "q_subheading_data": "Last 3 months’ salary slip/salary certificate, Last 2 years’ Form 16/ITR"
+        },
+        {
+          "q_heading_data": "Income Proofs For Non-Salaried",
+          "q_subheading_data": "Proof of Business proof, Last 3 years’ ITR, Details of Business license, Balance sheet/profit and loss account statement for past 3 years, TDS certificate"
+        }
+      ],
+      "q3_mainheading": "Fees and Charges for State Bank of India Loan Against Property",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "Flat Rs 10,000"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Eligible Age",
+          "q_subheading_data": "21 to 70 years"
+        },
+        {
+          "q_heading_data": "Eligible Salary",
+          "q_subheading_data": "Min Rs. 25,000"
+        },
+        {
+          "q_heading_data": "Eligible Profession",
+          "q_subheading_data": "Salaried or Self-employed"
+        },
+        {
+          "q_heading_data": "Loan Amount",
+          "q_subheading_data": "Upto 75% of Property"
+        },
+        {
+          "q_heading_data": "Property Eligibility",
+          "q_subheading_data": "Residential, commercial or industrial properties"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for SBI Loan Against Property"
+    },
+    {
+      "bank_name": "Tata Capital Limited (TCL)",
+      "bank_decs": "Tata Capital Limited (TCL), the flagship financial services company of the Tata Group, is a subsidiary of Tata Sons Private Limited and is registered with the Reserve Bank of India as a Systemically Important Non-Deposit Accepting Core Investment Company (CIC).",
+      "bank_logo": "/bankimages/tatalogo.jpg",
+      "q1_mainheading": "TATA Capital Loan Against Property Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Rate of Interest"
+        },
+        {
+          "q_heading_data": "TATA Capital Loan Against Property",
+          "q_subheading_data": "TATA Capital Loan offers loan against property starting @ 10.10% p.a. The loan against property interest rates offered to the applicants depends upon age, monthly income, job profile, employer’s profile, credit score, loan repayment history, etc."
+        }
+      ],
+      "q2_mainheading": "Documents Required for TATA Capital Loan Against Property",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "For Salaried Individuals",
+          "q_subheading_data": "Application form to initiate the loan against property request, Photograph, Photo Identity Proof: Copy of Aadhaar Card/Voter ID/Driving License/Passport, Address Proof: Copy of Electricity Bill/Ration Card/Passport, Signature Verification, Income Proof (Form 16 for the last 2 years and bank statements copy for the last 6 months), Copy of last 3 months salary slips"
+        },
+        {
+          "q_heading_data": "For Self Employed Professionals/Self Employed Non-Professionals",
+          "q_subheading_data": "Application form to initiate the loan against property request, Photograph, Photo Identity Proof: Copy of Aadhaar Card/Voter ID/Driving License/Passport, Address Proof: Copy of Electricity Bill/Ration Card/Passport, Siganture Verification, Income Proof (Income Tax Return, Balance Sheet, Profit & Loss and a copy of bank statements for the last 6 months)"
+        }
+      ],
+      "q3_mainheading": "TATA Capital Loan Against Property Fees & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Residential and Commercial properties (HE)",
+          "q_subheading_data": "1% of finance amount + GST and up to 3%"
+        },
+        {
+          "q_heading_data": "Rest all other properties (HE Plus)",
+          "q_subheading_data": "1.25% of finance amount + GST and up to 3%"
+        },
+        {
+          "q_heading_data": "Mint Loan",
+          "q_subheading_data": "1.25% of finance amount + GST and up to 3%"
+        },
+        {
+          "q_heading_data": "Part Payment Charges",
+          "q_subheading_data": "ock-in period: 12 months, After 12 months, part prepayments of up to 25% of the principal outstanding are permitted throughout the duration of the loan term, with payments paid in two tranches at the maximum."
+        },
+        {
+          "q_heading_data": "Penal Interest/Additional Interest",
+          "q_subheading_data": "3% on the overdue amount per month + GST"
+        },
+        {
+          "q_heading_data": "Bounce Charges",
+          "q_subheading_data": "Rs 2000 + GST"
+        },
+        {
+          "q_heading_data": "Mandate Rejection Service Charge",
+          "q_subheading_data": "Rs 450 + GST"
+        },
+        {
+          "q_heading_data": "CCOD Annual Maintenance Charges",
+          "q_subheading_data": "Rs 10,000 + GST"
+        },
+        {
+          "q_heading_data": "Application Fees",
+          "q_subheading_data": "Up to Rs 3 crore – Rs 3,000 + GST, Above Rs 3 crore – Rs 5,000 + GST"
+        },
+        {
+          "q_heading_data": "Statement of Accounts",
+          "q_subheading_data": "Soft Copy – Nil, Branch walk-in – Rs 250 + GST"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges",
+          "q_subheading_data": "4% of outstanding principal + GST"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges for Top Up",
+          "q_subheading_data": "4% of outstanding principal + GST"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges in CCOD Cases",
+          "q_subheading_data": "4% of the Dropdown Limit amount + GST"
+        },
+        {
+          "q_heading_data": "Loan Cancellation Charges",
+          "q_subheading_data": "Rs 25,000 + GST"
+        },
+        {
+          "q_heading_data": "Legal & Technical Charges",
+          "q_subheading_data": "Up to Rs 1 crore – Rs 6,000 + GST, Above Rs 1 crore – Rs 11,000 + GST"
+        },
+        {
+          "q_heading_data": "Foreclosure within Lock-In Period",
+          "q_subheading_data": "Lock-in period charges (Prevailing ROI x Principal Outstanding as on date of Foreclosure x Balance Lock-in) + Foreclosure charges (4%) + GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "For Salaried Individuals",
+          "q_subheading_data": "Segment: Working in Public Ltd.Co/MNC/Large Pvt. Ltd. Co./State Govt/Central Govt./PSU, Minimum Age: 23 years, Maximum Age: 65 years at loan maturity, Minimum Income p.a.: Rs 2.4 lakh, Occuptational Stability: Minimum 3 years"
+        },
+        {
+          "q_heading_data": "For Self Employed Professionals",
+          "q_subheading_data": "Segment: Doctors, Chartered Accountants, Architects, Minimum Age: 23 years, Maximum Age: 70 years at loan maturity, Income p.a.: Rs 2.5 lakh, Occuptational Stability: Minimum 3 years"
+        },
+        {
+          "q_heading_data": "For Self Employed Non Professionals (Individuals)",
+          "q_subheading_data": "Segment: Traders, Retailers, Manufacturer and Wholesalers, Minimum Age: 25 years, Maximum Age: 70 years at loan maturity, Income p.a.: Rs 2.5 lakh, Occuptational Stability: Minimum 3 years"
+        },
+        {
+          "q_heading_data": "For Self Employed Non Professionals (Non-Individuals)",
+          "q_subheading_data": "Segment: Firm, Private Ltd., Public Ltd., Minimum Age: 25 years, Maximum Age: 60 years at loan maturity, Income p.a.: Rs 3 lakh, Occuptational Stability: Minimum 3 years (with at least 2 years of cash profit)"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria of TATA Capital Loan Against Property"
+    },
+    {
+      "bank_name": "Axis Bank",
+      "bank_decs": "Axis Bank is the third largest private sector bank in India. The Bank offers the entire spectrum of financial services to customer segments covering Large and Mid-Corporates, MSME, Agriculture and Retail Businesses.",
+      "bank_logo": "/bankimages/axislogo.jpg",
+      "q1_mainheading": "Axis Bank Loan Against Property Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Product",
+          "q_subheading": "Rate of Interest"
+        },
+        {
+          "q_heading_data": "Priority Sector LAP For Term Loan",
+          "q_subheading_data": "9.90%-10.30%"
+        },
+        {
+          "q_heading_data": "Non-Priority Sector LAP For Term Loan",
+          "q_subheading_data": "9.90%-10.35%"
+        },
+        {
+          "q_heading_data": "Priority Sector Loans (PSL) For Overdraft",
+          "q_subheading_data": "9.90%-10.30%"
+        },
+        {
+          "q_heading_data": "Non PSL For Overdraft",
+          "q_subheading_data": "9.90%-10.35%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Axis Bank Loan Against Property",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Documents",
+          "q_subheading_data": "PAN card (mandatory), ID Proof (Aadhar card/Driving license/passport/voter ID/Government employee ID/Photo ID issued by Government of India), Address Proof (Electricity bill/gas bill/telephone bill/driving license/Aadhaar card/property tax receipt), Date of Birth Proof (Birth certificate/SSC certificate/Passport/PAN card/Driving license/Aadhaar card), Signature Proof (Notarized affidavit with ID and Address proof/Banker’s verification/PAN card/Passport)"
+        },
+        {
+          "q_heading_data": "Income Proof for salaried",
+          "q_subheading_data": "Pay slip for last 3 months, In case of variable pay, salary slip for 6 months, Salary account statement for last 6 months, Form 16 for 2 years"
+        },
+        {
+          "q_heading_data": "Income Proof for Self-Employed",
+          "q_subheading_data": "ITR for 2 years with income computation, P&L, balance sheet, signed and sealed by CA, Tax Audit Report, Personal and business account statement for 6 months, CPC and tax paid challan for ITR filed with manual sign, Business continuity proof for 5 years, Processing fee cheque"
+        },
+        {
+          "q_heading_data": "Income Proof for NRI",
+          "q_subheading_data": "Pay slip for 3 months, Appointment letter, Domestic NRE/NRO statement for 6 months, 6 months account statement for international salary, Passport copy, POA details, Valid VISA copy, Overseas credit report"
+        },
+        {
+          "q_heading_data": "Income Proof for Lease Rental Discounting",
+          "q_subheading_data": "6 months’ bank statement showing the credited rent, Valid registered lease agreement, 26AS for 1 year, ITR for 2 years with income computation, balance sheet signed and sealed by CA, P&L, Partnership deed, audited financials for 2 years, KYC, operative account, partnership authority letter"
+        }
+      ],
+      "q3_mainheading": "Axis Bank Loan Against Property Fees and Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "1% or Rs 10,000, whichever is higher"
+        },
+        {
+          "q_heading_data": "Duplicate no dues certificate",
+          "q_subheading_data": " RS 50"
+        },
+        {
+          "q_heading_data": "Penal interest",
+          "q_subheading_data": "2% per month on overdue instalments"
+        },
+        {
+          "q_heading_data": "Cheque bounce charges",
+          "q_subheading_data": "Rs 339"
+        },
+        {
+          "q_heading_data": "CERSAI charges",
+          "q_subheading_data": "For loan amount up to Rs 5 lakh- Rs 50, For loan amount above Rs 5 lakh- Rs 100"
+        },
+        {
+          "q_heading_data": "Foreclosure charges",
+          "q_subheading_data": "For non-individuals: 3% foreclosure charge on outstanding principal is applicable., For individuals with end use as business: 3% foreclosure charge on outstanding principal, For individuals with end use other than business: NIL"
+        },
+        {
+          "q_heading_data": "Part payment",
+          "q_subheading_data": "Upto 25% of the principal outstanding repaid in the quarter – NIL Charges, More than 25% of principal outstanding repaid in a quarter, -3% charges on excess amount repaid, For non-individuals: 3% part prepayment charge on outstanding principalFor individuals with end use as business: 3%  on outstanding principal, For individuals with end use other than business: NIL"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Loan Against Property",
+          "q_subheading_data": "Age: 24-65 years, Permanent employees of Government/reputed companies, Individuals filing Income Tax returns, Doctors/engineers/lawyers/CA/CS/dentists/architects/managementconsultants/cost accountants"
+        },
+        {
+          "q_heading_data": "For Lease Rental Discounting",
+          "q_subheading_data": "The lessee should be a company as defined under Companies Act 1956, Loan is sanctioned only against ready commercial property."
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for Axis Bank Loan Against Property"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440266ff920dc33cfef6eec"
+  },
+  "loan_name": "Personal Loan",
+  "loan_data": [
+    {
+      "bank_name": "Bajaj Finserv",
+      "bank_decs": "Bajaj Finserv Ltd., an unregistered Core Investment Company (CIC) under Core Investment Companies (Reserve Bank) Direction, 2016, as amended, is one of India's leading promoters of financial services with a consolidated total income of over Rs. 77,000 crore for the calendar year 2022.",
+      "bank_logo": "/bankimages/bajajlogo.jpg",
+      "q1_mainheading": "Bajaj Finance Personal Loan Interest rates",
+      "q1": [
+        {
+          "q_heading": "Loan Type",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Personal Loan for Salaried",
+          "q_subheading_data": "11% onwards"
+        },
+        {
+          "q_heading_data": "Personal Loan for Self-employed",
+          "q_subheading_data": "15%-25%"
+        },
+        {
+          "q_heading_data": "Personal Loan for Doctors",
+          "q_subheading_data": "11%-18%"
+        },
+        {
+          "q_heading_data": "Personal Loan for Chartered Accountants",
+          "q_subheading_data": "11%-18%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Bajaj Finance Personal Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "For Salaried Applicants",
+          "q_subheading_data": "KYC Documents, Salary slips for last 2 months, Employee ID card, Bank account statement for last 3 months"
+        },
+        {
+          "q_heading_data": "For Self-Employed Applicants",
+          "q_subheading_data": "KYC Documents (PAN Card, Aadhaar Card, Passport, Voter ID,Driving License), Proof of business ownership, Other Financial Documents"
+        },
+        {
+          "q_heading_data": "For Doctors",
+          "q_subheading_data": "KYC of authorized signatories, Certificate of medical registration"
+        },
+        {
+          "q_heading_data": "For Chartered Accountants",
+          "q_subheading_data": "KYC documents such as Aadhar card, voter ID, driving license, PAN card or any other government approved KYC document, Address Proof documents including electricity bill, passport, rent agreement, etc., Practice certificate, Bank account statement, Ownership proof for at least one property"
+        }
+      ],
+      "q3_mainheading": "Bajaj Finance Personal Loan Fees and Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fee For Salaried Applicants",
+          "q_subheading_data": "Up to 3.93% of loan amount"
+        },
+        {
+          "q_heading_data": "Document/Statement Charges/Account Statement/Repayment Schedule/Foreclosure Letter/Interest Certificate/No dues certificate/Documents list For Salaried Applicants",
+          "q_subheading_data": "Rs 50"
+        },
+        {
+          "q_heading_data": "Penal Interest For Salaried Applicants",
+          "q_subheading_data": "2%-4% p.m."
+        },
+        {
+          "q_heading_data": "Part pre-payment Charges For Salaried Applicants",
+          "q_subheading_data": "2% + taxes"
+        },
+        {
+          "q_heading_data": "Bounce Charges For Salaried Applicants",
+          "q_subheading_data": "Rs 600-Rs 1,200"
+        },
+        {
+          "q_heading_data": "Stamp Duty For Salaried Applicants",
+          "q_subheading_data": "As per actuals"
+        },
+        {
+          "q_heading_data": "Mandate Rejection Service Charge For Salaried Applicants",
+          "q_subheading_data": "Rs 450"
+        },
+        {
+          "q_heading_data": "Annual Maintenance Charges",
+          "q_subheading_data": "Flexi Term Loan(0.25% + taxes), Flexi Hybrid Loan(0.25% + taxes)"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges",
+          "q_subheading_data": "Term Loan(4% + taxes), Flexi Term Loan(4% + taxes), Flexi Hybrid Loan(4% + taxes)"
+        },
+        {
+          "q_heading_data": "Processing Fee For Self-Employed Applicants",
+          "q_subheading_data": "Up to 2.95% of loan amount"
+        },
+        {
+          "q_heading_data": "Bounce Charges For Self-Employed Applicants",
+          "q_subheading_data": "Up to Rs 3,000"
+        },
+        {
+          "q_heading_data": "Penal Interest For Self-Employed Applicants",
+          "q_subheading_data": "2% p.m."
+        },
+        {
+          "q_heading_data": "Document Processing Charges For Self-Employed Applicants",
+          "q_subheading_data": "Rs 2,000 + taxes"
+        },
+        {
+          "q_heading_data": "Outstation Collection Charges For Self-Employed Applicants",
+          "q_subheading_data": "NA"
+        },
+        {
+          "q_heading_data": "Document/Statement Charges For Self-Employed Applicants",
+          "q_subheading_data": "Rs 50"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for Bajaj Finance Personal Loan",
+      "q4": [
+        {
+          "q_heading": "For salaried applicants",
+          "q_subheading": "Age: 21-67 years, Nationality: Indian, Profession: MNC/Public/Private company, CIBIL Score: 750 or higher, Minimum Monthly Salary: Rs 22,000"
+        },
+        {
+          "q_heading_data": "For self-employed individuals",
+          "q_subheading_data": "Age: 24-70 years, Nationality: Indian, Credit Score: 750 or higher, Business vintage of at least 3 years"
+        },
+        {
+          "q_heading_data": "For Doctors",
+          "q_subheading_data": "The applicant should be an Indian resident, Super specialist doctors (MD/DM/MS) and graduate doctors (MBBS) having an MBBS degree registered with the medical council are eligible for Bajaj Finance personal loans, Dentists (BDS/MDS) having at least 5 years of post-qualification experience can also avail personal loans from Bajaj Finance, Ayurvedic and Homeopathic doctors (BHMS/BAMS) should have a post-qualification experience of minimum 2 years"
+        },
+        {
+          "q_heading_data": "For Chartered Accountant",
+          "q_subheading_data": "The applicant should have at least 2 years of professional experience, Chartered Accountants owning a house or office in the city where Bajaj Finance operates are also eligible for availing Bajaj Finance Personal Loan"
+        }
+      ]
+    },
+    {
+      "bank_name": "Tata Capital",
+      "bank_decs": "Tata Capital Limited is a financial and investment service provider in India. The company is based in Mumbai and has more than 100 branches across the country. The firm offers consumer loans, wealth management, commercial finance, and infrastructure finance, among others.",
+      "bank_logo": "/bankimages/tatalogo.jpg",
+      "q1_mainheading": "Tata Capital Personal Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Customer Profile",
+          "q_subheading": "Rate of Interest (p.a.)"
+        },
+        {
+          "q_heading_data": "Salaried",
+          "q_subheading_data": "10.99% onwards"
+        },
+        {
+          "q_heading_data": "Self-employed",
+          "q_subheading_data": "10.99% onwards"
+        },
+        {
+          "q_heading_data": "Personal Loan Overdraft",
+          "q_subheading_data": "13.55%"
+        }
+      ],
+      "q2_mainheading": "Documentation Required for Tata Capital Personal Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Tata Capital Personal Loan",
+          "q_subheading_data": " Copy of voter ID, Aadhaar card, driving license, passport, Bank statement copy for last 6 months, Copy of salary slips for last 3 months, Passport/electricity bill/ration card copies, Certificate showing continuous employment of 1 year"
+        },
+        {
+          "q_heading_data": "Income Proof for salaried",
+          "q_subheading_data": "Pay slip for last 3 months, In case of variable pay, salary slip for 6 months, Salary account statement for last 6 months, Form 16 for 2 years"
+        },
+        {
+          "q_heading_data": "Additional Documents for Tata Personal Loan for Education",
+          "q_subheading_data": "dmission letter issued by the school/college, Mark sheet and certificates of 10th std. (attested), Documents for studying abroad such as entry permit, admission letter, I-20 Form from the institute, the contract, ITR of parent/guarantor, Essential documents issued by school/college/institute including fees breakup, prospectus, etc., Details of the employment like resignation letter, resignation acceptance, study leave sanction letter, Property documents in case of an immovable property offered as security"
+        },
+        {
+          "q_heading_data": "Income Proof for NRI",
+          "q_subheading_data": "Pay slip for 3 months, Appointment letter, Domestic NRE/NRO statement for 6 months, 6 months account statement for international salary, Passport copy, POA details, Valid VISA copy, Overseas credit report"
+        },
+        {
+          "q_heading_data": "For Pensioners/Self-employed Women",
+          "q_subheading_data": "Photo Id proofs, Income proofs, Address Proofs"
+        }
+      ],
+      "q3_mainheading": "Tata Capital Processing Fees & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "Up to 2.75% of loan amount + GST"
+        },
+        {
+          "q_heading_data": "Penal/Additional Interest",
+          "q_subheading_data": "3% on the overdue amount monthly + GST"
+        },
+        {
+          "q_heading_data": "Bounce Charges",
+          "q_subheading_data": "Rs 600 + GST"
+        },
+        {
+          "q_heading_data": "Mandate Rejection Service Charge",
+          "q_subheading_data": "Rs 450 + GST"
+        },
+        {
+          "q_heading_data": "CCOD Annual Maintenance Charge",
+          "q_subheading_data": "Rs 0.25% on dropline amount + GST of Rs 1,000"
+        },
+        {
+          "q_heading_data": "Outstation Collection Charges",
+          "q_subheading_data": "Rs 100 + GST"
+        },
+        {
+          "q_heading_data": "Accounts Statement",
+          "q_subheading_data": "Rs 250 + GST"
+        },
+        {
+          "q_heading_data": "Loan Cancellation Charges",
+          "q_subheading_data": "2% of the loan amount or Rs 5,750 (whichever is higher) + GST"
+        },
+        {
+          "q_heading_data": "Instrument swap charges",
+          "q_subheading_data": "Rs 550 + GST"
+        },
+        {
+          "q_heading_data": "Duplicate Repayment Schedule",
+          "q_subheading_data": "Rs 550 + GST"
+        },
+        {
+          "q_heading_data": "Duplicate NOC",
+          "q_subheading_data": "Rs 550 + GST"
+        },
+        {
+          "q_heading_data": "Post- Dated Cheque Charges",
+          "q_subheading_data": "Rs 850 + GST"
+        },
+        {
+          "q_heading_data": "Part-payment Charges",
+          "q_subheading_data": "No part-payment for the first 12 months 2.5% + GST on amount over and above 25% of outstanding principal"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges",
+          "q_subheading_data": "4.5% of the outstanding principal at the time of foreclosure + GST For closing loan within 12 months- 6.5% + GST If foreclosed within 6 months after completing part pre-payment: 4.5% of the outstanding principal at the time of foreclosure + GST + part pre-payment amount"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges for Top- up",
+          "q_subheading_data": "2.50% on the principal outstanding at the time of foreclosure + GST Any prepayment /foreclosure made within 12 months prepayment/foreclosure charges 4.5% + applicable taxes on the principal outstanding"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges in CCOD cases",
+          "q_subheading_data": "4.5% on dropped down limit + GST"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges on Term Loan Facility",
+          "q_subheading_data": "4.5% of the outstanding principal at the time of foreclosure + GST"
+        },
+        {
+          "q_heading_data": "Foreclosure Letter Charges",
+          "q_subheading_data": "Soft Copy- NIL, ranch Walkin- Rs 199 + GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "For Personal Loan Overdraft Facility",
+          "q_subheading_data": "Age: 22-58 years, Minimum monthly income: Rs 35,000, Serving in the same job for at least 1 year, At least 2 years of work experience"
+        },
+        {
+          "q_heading_data": "For Wedding Loan",
+          "q_subheading_data": "The borrower should be salaried, Age: 21- 58 years, Serving in the current organization for at least 6 months, Minimum monthly income: Rs 20,000"
+        },
+        {
+          "q_heading_data": "For Medical Loan",
+          "q_subheading_data": "Salaried individual, Minimum 1 year work experience, Working in the current organization for at least 6 months, Age: 21- 58 years, Monthly income: At least Rs 20,000"
+        },
+        {
+          "q_heading_data": "Personal Loan For Education",
+          "q_subheading_data": "Age: 16-26 years, Good academic record, Borrower/parents should have a stable income source, Credit history of the co-applicant, Should have a guarantor/ show security"
+        },
+        {
+          "q_heading_data": "FoAge: 22-58 years, Salaried person, One year of work experience, Working in the same job for at least 6 months, Minimum monthly salary: Rs 20,000"
+        },
+        {
+          "q_heading_data": "For Home Renovation Loan",
+          "q_subheading_data": "Age: Minimum- 24 years & Maximum- 65 years (at the time of loan maturity), Minimum monthly income: Rs 20,000, Minimum work experience: 2 years,For entrepreneurs: Minimum 3 years experience in the current field"
+        },
+        {
+          "q_heading_data": "For Government Employees",
+          "q_subheading_data": "Age: 22- 58 years, Minimum monthly income: Rs 15,000, Work experience: At least 1 year, Other criteria: CIBIL Score, job stability "
+        },
+        {
+          "q_heading_data": "For Salaried Employees",
+          "q_subheading_data": "Age: 22- 58 years, Loan Minimum work experience: 1 year, Minimum monthly income: Rs 15,000, Credit score: Minimum 750 or above, Should have repaid the previous debts on time"
+        },
+        {
+          "q_heading_data": "For Doctors",
+          "q_subheading_data": "Age: 22- 58 years, Minimum monthly income: Rs 15,000, Minimum work experience: 1 year"
+        },
+        {
+          "q_heading_data": "Loan for Women",
+          "q_subheading_data": "Minimum work experience: 1 year, Age: 22- 58 years, Minimum monthly income: Rs 15,000"
+        },
+        {
+          "q_heading_data": "Loan for Pensioners",
+          "q_subheading_data": "Minimum monthly pension drawn is Rs 15,000 "
+        }
+      ],
+      "q4_mainheading": "Eligibility for Tata Capital Personal Loan"
+    },
+    {
+      "bank_name": "Muthoot Finance",
+      "bank_decs": "Muthoot Finance Limited is a gold financing company. The company is a non-banking financial company (NBFC) which is engaged in providing loan (financing) against collateral of gold jewellery. The company operates through two segments: financing and power generation.",
+      "bank_logo": "/bankimages/muthootfinance.jpg",
+      "q1_mainheading": "Muthoot Finance Personal Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Schemes",
+          "q_subheading": "Rate of Interest (p.a.)"
+        },
+        {
+          "q_heading_data": "Personal loan to landlords",
+          "q_subheading_data": "18% to 19%"
+        },
+        {
+          "q_heading_data": "Other personal loan schemes",
+          "q_subheading_data": "14% to 22%s"
+        },
+        {
+          "q_heading_data": "Personal Loan Overdraft",
+          "q_subheading_data": "13.55%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Personal Loans from Muthoot Finance",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Muthoot Finance Personal Loan",
+          "q_subheading_data": " Latest salary slip/salary certificate, Bank statement with salary credits, KYC documents, Demand Promissory Note/Agreement, ACH mandate or any undertaking from borrowers to deduct loan instalments from salary, IT returns for the last 3 years"
+        }
+      ],
+      "q3_mainheading": "Muthoot Finance Processing Fees & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "NIL",
+          "q_subheading_data": "NIL"
+        },
+        {
+          "q_heading_data": "NIL",
+          "q_subheading_data": "NIL"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Salaried",
+          "q_subheading_data": "Salaried employees from public sector units and reputed organizations"
+        },
+        {
+          "q_heading_data": "Self-Employed",
+          "q_subheading_data": "Self-employed individuals with a regular verifiable income"
+        },
+        {
+          "q_heading_data": "Other",
+          "q_subheading_data": "The NBFC also considers factors like age, net salary, total years of service, years of service left, owning a house, etc. depending upon the individual’s risk profile while evaluating the personal loan eligibility of its loan applicants."
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for Availing Personal Loans from Muthoot Finance"
+    },
+    {
+      "bank_name": "KreditBee",
+      "bank_decs": "KreditBee is an Instant Personal Loan platform for self-employed and salaried professionals, where they can apply for a Personal Loan starting from ₹ 1,000 up to ₹ 4 Lakhs as per their requirement. We aim to become the first choice when it comes to quick and convenient Personal Loans.",
+      "bank_logo": "/bankimages/creditbee.jpg",
+      "q1_mainheading": "KreditBee Personal Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Particulars",
+          "q_subheading": "Rate of Interest (p.a.)"
+        },
+        {
+          "q_heading_data": "Flexi Personal Loan",
+          "q_subheading_data": "18.00% – 29.95%"
+        },
+        {
+          "q_heading_data": "Personal Loan for Salaried",
+          "q_subheading_data": "15.00% – 29.95%"
+        },
+        {
+          "q_heading_data": "Online Personal Loan/E-Voucher Loan",
+          "q_subheading_data": "Up to 24.00%"
+        }
+      ],
+      "q2_mainheading": "Documentation Required for Personal Loan from KreditBee",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Flexi Personal Loan",
+          "q_subheading_data": "PAN Card, Address Proof: Voter ID Card, Aadhaar Card, Passport"
+        },
+        {
+          "q_heading_data": "Personal Loan for Salaried",
+          "q_subheading_data": "PAN Card, Address Proof: Voter ID Card, Aadhaar Card, Passport, Bank statement of salary account, Salary slips"
+        },
+        {
+          "q_heading_data": "Online Purchase Loan/E-Voucher Loan",
+          "q_subheading_data": "PAN Card, KYC Address Proof"
+        }
+      ],
+      "q3_mainheading": "Cewditbee Processing Fees & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing fees*",
+          "q_subheading_data": "For Flexi Personal Loans: Rs 85 to Rs 1,250, For Personal Loans for Salaried (for loan amount from Rs 10,000 to Rs 2 lakh): Rs 500 to up to 6% of loan amount, For Online Purchase Loan/E-Voucher Loan: Up to 5% of loan amount"
+        },
+        {
+          "q_heading_data": "Convenience fees**",
+          "q_subheading_data": "Bank transfer: Nil (borrower’s bank may levy charges for NEFT/IMPS transfer), Net banking: Rs 6 to Rs 15 per transaction (depending on the borrower’s bank), Debit Card(Less than Rs 2,000: Nil, Above Rs 2,000: 0.90%), UPI: Rs 5 to Rs 11 per transaction (depending on the borrower’s bank), Wallet/Prepaid: Up to 1.90% (depending on the wallet chosen for payment)"
+        },
+        {
+          "q_heading_data": "Penalty Charges for Auto Debit",
+          "q_subheading_data": "Rs 100"
+        },
+        {
+          "q_heading_data": "Late Payment Charges",
+          "q_subheading_data": "Flexi Personal Loan(For a 2 month loan of Rs 1,000 to Rs 10,000: One time overdue charge of Rs 10 to Rs 200, Per day penalty charge: Rs 5 to Rs 75 for every overdue instalment), Personal Loan for Salaried(For a 15 month loan (loan amount of Rs 10,000 to Rs 3 lakh): One time overdue charge of Rs 500, Per day penalty charge: 0.15% of principal amount for every overdue instalment), Online Purchase Loan/E-Voucher Loan(One time overdue charge: Rs 500, Per day penalty charge: 0.2% of principal amount for every overdue instalment)"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Eligibility for Flexi Personal Loan",
+          "q_subheading_data": "ndian Citizen, Minimum Salary requirement: Rs 10,000 per month (net), Age: 21 to 45 years"
+        },
+        {
+          "q_heading_data": "Personal Loan for Salaried",
+          "q_subheading_data": "Indian Citizen, Minimum Salary requirement: Rs 15,000 per month (net), Age: 21 to 45 years, Work Experience: At least 3 months (in the current organization)"
+        },
+        {
+          "q_heading_data": "Online Purchase Loan/E-Voucher Loan",
+          "q_subheading_data": "Indian Citizen, Age: above 21 years"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for KreditBee Personal Loan"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644267e5f3a851a9304c150f"
+  },
+  "loan_name": "Car Loan",
+  "loan_data": [
+    {
+      "bank_name": "HDFC Bank",
+      "bank_decs": "HDFC is India's premier housing finance company and enjoys an impeccable track record in India as well as in international markets. Since its inception in 1977, the Corporation has maintained a consistent and healthy growth in its operations to remain the market leader in mortgages.",
+      "bank_logo": "/bankimages/hdfclogo.jpg",
+      "q1_mainheading": "HDFC Car Loan Interest Rate",
+      "q1": [
+        {
+          "q_heading": "Loan Type",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "HDFC Car Loan",
+          "q_subheading_data": "8.25% – 14.26% (Avg – 9.40%)"
+        },
+        {
+          "q_heading_data": "Other",
+          "q_subheading_data": "Note: The car loan interest rates mentioned on this archived page are from October 2018 and may have changed now. In order to know the latest rates please visit the HDFC Bank website."
+        }
+      ],
+      "q2_mainheading": "Documents Required to Apply for Car Loan from HDFC Bank",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Documents Required for New Car Loan",
+          "q_subheading_data": "Identity and address proof documents as accepted by HDFC, Income Proof: Latest salary slip with form 16., Last 6 months Bank Statement"
+        },
+        {
+          "q_heading_data": "Documents Required for Used/Pre-owned Car",
+          "q_subheading_data": "In addition to the above documents you will need to submit the following: Bank accepted proof of age and address documents, Proof of signature verification acceptable to HDFC Bank"
+        },
+        {
+          "q_heading_data": "Documents Required for Loan against Car",
+          "q_subheading_data": "In addition to the address, identity, age, income and sign verification proof, you will need to submit the following: Repayment record for 9 months for vehicle under personal usage and 12 month repayment record for vehicles under commercial usage., Foreclosure statement (if non HDFC Bank Car-loan on the vehicle)."
+        },
+        {
+          "q_heading_data": "Documents Required for New Car Loan for self-employed Applicant",
+          "q_subheading_data": "Identity and Address Proof documents of Income Proof: Latest Income Tax Return, Address Proof: Ration card, Driving licence, PAN Card, Voter ID card, passport, Life insurance policy, telephone/electricity bill, etc., Last 6 months Bank Statement"
+        },
+        {
+          "q_heading_data": "Documents Required for New Car Loan for self-employed Applicant for Used/Pre-owned Car Loan",
+          "q_subheading_data": "Age Proof accepted by HDFC, Proof of identity and address as per HDFC Bank’s policies, Proof of Address: Photo Ration card with DOB, Photo Driving licence with DOB, Passport copy, Telephone bill, Electricity bill, Credit Card statement with credit card copy, Employer certificate/ID., Proof of Sign Verification: Passport, Photo driving licence with DOB, Credit Card statement with credit card copy, Banker’s verification, Copy of margin money paid to bank."
+        }
+      ],
+      "q3_mainheading": "HDFC Car Loan Fees and Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fee",
+          "q_subheading_data": "Lower of Rs. 10,000 or 0.4% of car loan sanctioned"
+        },
+        {
+          "q_heading_data": "Foreclosure Charges",
+          "q_subheading_data": "3% to 6% depending on loan tenure (no foreclosure for loans disbursed <6 months ago)"
+        },
+        {
+          "q_heading_data": "Documentation Fees",
+          "q_subheading_data": "Rs. 600 each time"
+        },
+        {
+          "q_heading_data": "Penalty for Late Payment",
+          "q_subheading_data": "2% each month"
+        },
+        {
+          "q_heading_data": "Financing Quantum",
+          "q_subheading_data": "up to 100% depending on customer profile"
+        }
+      ],
+      "q4_mainheading": "HDFC Car Loan Eligibility Criteria",
+      "q4": [
+        {
+          "q_heading": "The eligibility of the HDFC car loan applicant depends upon the following criteria:",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Employment",
+          "q_subheading_data": "This means, either the loan applicant should be a salaried professional who is drawing a salary by working at some private or public limited company, or the applicant is a self-employed person who owns a business, or owns a partnership/private limited firm, or works as a director of a public limited company."
+        },
+        {
+          "q_heading_data": "Age",
+          "q_subheading_data": "For a salaried person, the minimum age requirement is 21 years and the maximum age or the age at end of loan tenure should be 60 years. For a self-employed person, the minimum age requirement is 21 years and the maximum age or the age at end of loan tenure should be 65 years."
+        },
+        {
+          "q_heading_data": "Income",
+          "q_subheading_data": "A salaried person should earn at least Rs. 1,80,000 p.a. including the income of your spouse/Co-applicant. While a self-employed person’s income requirements vary as per the business type (sole-proprietorship, partnership, private limited company, and public limited company)."
+        }
+      ]
+    },
+    {
+      "bank_name": "State Bank of India",
+      "bank_decs": "State Bank of India (SBI) a Fortune 500 company, is an Indian Multinational, Public Sector Banking and Financial services statutory body headquartered in Mumbai. The rich heritage and legacy of over 200 years, accredits SBI as the most trusted Bank by Indians through generations.",
+      "bank_logo": "/bankimages/sbilogo.jpg",
+      "q1_mainheading": "SBI Car Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "SBI Car Loan Interest Rate",
+          "q_subheading": "Rate of Interest (p.a.)"
+        },
+        {
+          "q_heading_data": "Interest Rate",
+          "q_subheading_data": "9.20% – 9.70%"
+        },
+        {
+          "q_heading_data": "Other",
+          "q_subheading_data": "The car loan interest rates mentioned on this archived page are from October 2018 and may have changed now. In order to know the latest rates please visit the State Bank of India website."
+        }
+      ],
+      "q2_mainheading": "SBI Car Loan Documents Required",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Salaried",
+          "q_subheading_data": "Car loan application form, Bank statement for last 6 months, ID and Address Proof, 2 passport sized photographs, Income proof: Salary Slip, Form 16, and ITR for 2 years"
+        },
+        {
+          "q_heading_data": "Self-Employed",
+          "q_subheading_data": "Car loan application form, Bank statement for last 6 months, ID and Address Proof, 2 passport sized photographs, Income proof: Form 16 and ITR for 2 years"
+        },
+        {
+          "q_heading_data": "Agriculturist",
+          "q_subheading_data": "Car loan application form, Bank statement for last 6 months, ID and Address Proof, 2 passport sized photographs, Bank accepted cropping pattern and land holding documents and documentary proff of cultivation"
+        }
+      ],
+      "q3_mainheading": "SBI Car Loan and Fees and Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fee",
+          "q_subheading_data": "Rs. 1,000 – Rs. 1,500 + GST"
+        },
+        {
+          "q_heading_data": "Repayment Tenure",
+          "q_subheading_data": "Upto 7 years"
+        },
+        {
+          "q_heading_data": "Financing",
+          "q_subheading_data": "90% of ‘on-road’ price"
+        },
+        {
+          "q_heading_data": "Maximum Loan Amount",
+          "q_subheading_data": "For Government Employees: 40 times of monthly income, For Professionals: 4 times of gross taxable income, For Businessmen: 4 times of net profit, For Agriculturalist: 3 times of net annual income  "
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Age Group",
+          "q_subheading_data": "Age: 21 to 65 years, Age: 21 to 65 years, Age: 21 to 65 years"
+        },
+        {
+          "q_heading_data": "Category",
+          "q_subheading_data": "An employee of Central/State government, public/private limited company, Professionals, self-employed, businessmen, proprietary/partnership firms, Agriculturist"
+        },
+        {
+          "q_heading_data": "Income Criteria",
+          "q_subheading_data": "A net annual income of Rs. 2,50,000 of the applicant and/or the co-applicant, Net Profit or Gross Taxable income of Rs. 4,00,000, A net annual income of Rs. 4,00,000 of the applicant and/or the co-applicant"
+        }
+      ],
+      "q4_mainheading": "SBI Car Loan Eligibility"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64428ccaf3a851a9304c1514"
+  },
+  "loan_name": "Home Loan",
+  "loan_data": [
+    {
+      "bank_name": "Bajaj Housing Finance",
+      "bank_decs": "Bajaj Housing Finance offers attractive Home Loan interest rates starting at 8.60%* for salaried and professional individuals. Borrowers also have the advantage of availing of a sizeable sanction with minimal documentation and quick processing and approval.",
+      "bank_logo": "/bankimages/bajajlogo.jpg",
+      "q1_mainheading": "Bajaj Housing Finance Home Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Loan Type",
+          "q_subheading": "Rate of Interest (p.a.)"
+        },
+        {
+          "q_heading_data": "Home Loan For Salaried and Professionals",
+          "q_subheading_data": "8.70%-14.00%"
+        },
+        {
+          "q_heading_data": "Home Loan Balance Transfer For Salaried and Professionals",
+          "q_subheading_data": "8.80%-14.00%"
+        },
+        {
+          "q_heading_data": "Top-up For Salaried and Professionals",
+          "q_subheading_data": "9.80%-15.00%"
+        },
+        {
+          "q_heading_data": "Home Loan For Self-employed Professionals",
+          "q_subheading_data": "9.10%-14.00%"
+        },
+        {
+          "q_heading_data": "Home Loan Balance Transfer For Self-employed Professionals",
+          "q_subheading_data": "9.50%-14.00%"
+        },
+        {
+          "q_heading_data": "Top-up For Self-employed Professionals",
+          "q_subheading_data": "10.00%-15.00%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Bajaj Housing Finance Home Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Mendatory Documents",
+          "q_subheading_data": "Proof of Address (Aadhaar, Voter ID, Passport, Driving License, etc.), Proof of Identity (Aadhaar, PAN, Passport, Driving License, Voter ID, etc.), Photograph, Form 16 or latest salary slips, Bank account statements of the previous 6 months, Document for proof of Business, of min. 5 years (for Businessmen/ self-employed individuals)"
+        }
+      ],
+      "q3_mainheading": "Bajaj Housing Finance Home Loan Processing Fees & Other Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing fees",
+          "q_subheading_data": "0.3% onwards"
+        },
+        {
+          "q_heading_data": "Prepayment charges",
+          "q_subheading_data": "No prepayment charges for floating rate loans taken by individuals"
+        },
+        {
+          "q_heading_data": "Foreclosure charges",
+          "q_subheading_data": "No foreclosure charges for floating rate loans availed by individuals"
+        },
+        {
+          "q_heading_data": "Loan statement charges",
+          "q_subheading_data": "NIL"
+        },
+        {
+          "q_heading_data": "Interest and principal statement charges",
+          "q_subheading_data": "NIL"
+        },
+        {
+          "q_heading_data": "EMI bounce charges",
+          "q_subheading_data": "Rs. 3,000"
+        },
+        {
+          "q_heading_data": "Penal interest",
+          "q_subheading_data": "Up to 2% penal interest"
+        },
+        {
+          "q_heading_data": "Secure fee",
+          "q_subheading_data": "Up to Rs. 4,999 (one time)"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Employee Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "For Salaried",
+          "q_subheading_data": "Should be a resident of India, Should be between 23 and 62 years of age, Should have a work experience of 3 years or more, The eligible net salary and property value are given in the table below:"
+        },
+        {
+          "q_heading_data": "For Self Employed",
+          "q_subheading_data": "Should be an Indian resident, Should be between 25-70 years of age, Should have at least 5 years of continuity in the current business"
+        },
+        {
+          "q_heading_data": "For Home Loan Balance Transfer Facility",
+          "q_subheading_data": "Property of the applicant must be ready to occupy or already occupied, The applicant must have paid more than 12 EMIs, The applicant should not have any outstanding dues on his/her existing home loan"
+        }
+      ],
+      "q4_mainheading": "Bajaj Housing Finance Home Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "HDFC Bank",
+      "bank_decs": "HDFC is India's premier housing finance company and enjoys an impeccable track record in India as well as in international markets. Since its inception in 1977, the Corporation has maintained a consistent and healthy growth in its operations to remain the market leader in mortgages.",
+      "bank_logo": "/bankimages/hdfclogo.jpg",
+      "q1_mainheading": "HDFC Home Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Loan Type",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "All loan amounts",
+          "q_subheading_data": "8.50%-9.00%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for HDFC Home Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "For Salaried Applicants",
+          "q_subheading_data": "ID Proof(PAN Card, Passport, Voter ID, Driving License), Income Proof(Salary slips for last 3 months, ITR and Form 16, Bank account statement for past 6 months showing salary credit) "
+        },
+        {
+          "q_heading_data": "For Self-Employed",
+          "q_subheading_data": "ID Proof(PAN Card, Passport, Voter ID, Driving License),ITR with income computation for past 3 assessment years of both individual and business entity (duly attested by a CA), Current account statement of business entity for past 6 months and savings account statement of the individuals of both individual and business entity (duly attested by a CA), Balance sheet and profit and loss account statement for last 3 years, with schedules and annexures"
+        }
+      ],
+      "q3_mainheading": "HDFC Home Loan Processing Fee & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "For Salaried/Self-employed Professionals: Up to 0.50% of loan amount or Rs 3,000, whichever is higher, For Self-employed Non-Professionals: Up to 1.50% of loan amount or Rs 4,500, whichever is higher, For HDFC Reach Loan:, For Salaried/Self-employed: Up to 2% of loan amount + taxes, (Discounted processing fee of Rs 3,000)"
+        },
+        {
+          "q_heading_data": "Check Dishonour Charges",
+          "q_subheading_data": "Rs 300"
+        },
+        {
+          "q_heading_data": "List Of Documents",
+          "q_subheading_data": "Up to Rs 500"
+        },
+        {
+          "q_heading_data": "Photo Copy Of Documents",
+          "q_subheading_data": "Up to Rs 500 "
+        },
+        {
+          "q_heading_data": "PDC Swap",
+          "q_subheading_data": "Up to Rs 500 "
+        },
+        {
+          "q_heading_data": "Disbursement Cheque Cancellation Charge Post Disbursement",
+          "q_subheading_data": "Up to Rs 500 "
+        },
+        {
+          "q_heading_data": "Re-Appraisal Of Loan After 6 Months From Sanction",
+          "q_subheading_data": "Up to Rs 2,000 plus applicable taxes "
+        },
+        {
+          "q_heading_data": "Reversal of Provisional Prepayment under HDFC Maxvantage Scheme",
+          "q_subheading_data": "Rs.250"
+        },
+        {
+          "q_heading_data": "Prepayment Charges",
+          "q_subheading_data": "Adjustable Rate Loans (ARHL) and Combination Rate Home Loan (“CRHL”) during the period of applicability of the Variable Rate of interest- NIL,Fixed Rate Loans (“FRHL”) and Combination Rate Home Loan (“CRHL”) during the period of applicability of the Fixed Rate of interest- 2% + taxes"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Age Group",
+          "q_subheading_data": "21-65 years"
+        },
+        {
+          "q_heading_data": "Profession",
+          "q_subheading_data": " Salaried/Self-employed Professionals (Doctors, Lawyers, Engineers, CA, architect, consultant, CS) and Self-employed Non-Professionals (Commission agent, contractor, trader)"
+        },
+        {
+          "q_heading_data": "Nationality",
+          "q_subheading_data": "Indian Resident"
+        },
+        {
+          "q_heading_data": "Genders",
+          "q_subheading_data": "All"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for HDFC Home Loan"
+    },
+    {
+      "bank_name": "ICICI Bank",
+      "bank_decs": "ICICI was formed in 1955 at the initiative of the World Bank, the Government of India and representatives of Indian industry. The principal objective was to create a development financial institution for providing medium-term and long-term project financing to Indian businesses.",
+      "Bank_logo": "/bankimages/icicilogo.jpg",
+      "q1_mainheading": "ICICI Home Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Salaried",
+          "q_subheading_data": "9.00%"
+        },
+        {
+          "q_heading_data": "Self-employed",
+          "q_subheading_data": "9.10%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for ICICI Home Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "For Salaried Individuals",
+          "q_subheading_data": "Application form with photograph duly signed, Proof of Identity, Proof of Residence, Proof of Age, Processing fee cheque, Last 6 months bank statements, Last 3 months Salary-slips, Form 16 / Income Tax Returns"
+        },
+        {
+          "q_heading_data": "For Self-employed Professionals/ Self-employed Non-professionals:",
+          "q_subheading_data": "Identity, residence and age proof, Last 6 months bank statements, Form 16 / Income Tax Returns, Proof of,  existence, Education qualification certificate and proof of business existence, Last 3 years Income Tax Returns with ,  of Income, Last 3 years CA Certified / Audited Balance Sheet and Profit & Loss Account"
+        }
+      ],
+      "q3_mainheading": "ICICI Home Loan Processing Fees & Other Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees & Charges"
+        },
+        {
+          "q_heading_data": "Loan Processing Charges / Renewal Charges",
+          "q_subheading_data": "0.50%"
+        },
+        {
+          "q_heading_data": "Prepayment Charges",
+          "q_subheading_data": "· NIL for ICICI Home Loans and ICICI Home Improvement Loans with a floating rate of interest, · 2% on the outstanding principal on full repayment for ICICI Bank Home Loan with a fixed rate of interest, · 2% on the outstanding principal on full repayment for Top Up Loan if the applicant or co-applicant is Non-Individual, · 4% on the outstanding amount of loan where the loan is given to Non Individual borrowers or with a fixed rate of interest to Individual borrowers."
+        },
+        {
+          "q_heading_data": "Charges for late payment",
+          "q_subheading_data": "· Home Loans: 2% per month, · Home OD: 1.5% of the outstanding amount subject to a minimum of Rs. 500/- & Maximum of Rs.5000/-"
+        },
+        {
+          "q_heading_data": "Conversion charges for ICICI home loans",
+          "q_subheading_data": "· Floating to Floating: 0.5% of the principal outstanding, · Dual fixed rate to Floating: 0.5% of the principal outstanding, · Floating to Dual fixed rate: 0.5% of the principal outstanding, · Lifetime fixed to Floating: 1.75% of the principal outstanding"
+        },
+        {
+          "q_heading_data": "Repayment mode swap Charges",
+          "q_subheading_data": "Rs 500"
+        },
+        {
+          "q_heading_data": "Document Retrieval Charges",
+          "q_subheading_data": " Rs 500"
+        },
+        {
+          "q_heading_data": "Cheque bounce charges",
+          "q_subheading_data": "Rs 500"
+        },
+        {
+          "q_heading_data": "Duplicate No Objection Certificate / No Due Certificate",
+          "q_subheading_data": "Rs 100"
+        },
+        {
+          "q_heading_data": "Revalidation of No Objection Certificate",
+          "q_subheading_data": "Rs 100"
+        },
+        {
+          "q_heading_data": "Administrative Charges",
+          "q_subheading_data": "Rs 5000"
+        },
+        {
+          "q_heading_data": "CIBIL Report Charges",
+          "q_subheading_data": "Rs 50"
+        },
+        {
+          "q_heading_data": "Legal, Repossession and Incidental Charges",
+          "q_subheading_data": " At Actuals"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "For Express Home Loan",
+          "q_subheading_data": "Salaried and Self-employed individuals, Resident and Non-Resident Indians"
+        },
+        {
+          "q_heading_data": "For Land Loan",
+          "q_subheading_data": "Salaried and Self-employed individuals, Age: 25-65 years"
+        },
+        {
+          "q_heading_data": "For Extraa Home Loan",
+          "q_subheading_data": "Middle aged salaried individuals up to 48 years of age, young salaried individuals up to 37 years of age, self-employed individuals"
+        },
+        {
+          "q_heading_data": "For NRIs",
+          "q_subheading_data": "Age: 21-65 years, Salaried applicants with 1 year of employment overseas, Self-employed applicants with 3 years of experience in current business overseas"
+        },
+        {
+          "q_heading_data": "For PMAY",
+          "q_subheading_data": "Age: 21-70 years, Beneficiary or his family should not own a pucca house anywhere in the country, The beneficiaries family would include wife, husband and unmarried children, Either of the married couple or both together can apply for a single subsidy, Beneficiary/beneficiary’s family should not have applied for any other government scheme or other benefits as under PMAY"
+        },
+        {
+          "q_heading_data": "Income Criteria",
+          "q_subheading_data": "A net annual income of Rs. 2,50,000 of the applicant and/or the co-applicant, Net Profit or Gross Taxable income of Rs. 4,00,000, A net annual income of Rs. 4,00,000 of the applicant and/or the co-applicant"
+        }
+      ],
+      "q4_mainheading": "ICICI Bank Home Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "Tata Capital",
+      "bank_decs": "Tata Capital Limited is a financial and investment service provider in India. The company is based in Mumbai and has more than 100 branches across the country. The firm offers consumer loans, wealth management, commercial finance, and infrastructure finance, among others.",
+      "Bank_logo": "/bankimages/tatalogo.jpg",
+      "q1_mainheading": "Tata Capital Home Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Regular Home Loan Salaried",
+          "q_subheading_data": "9.15% p.a. onwards"
+        },
+        {
+          "q_heading_data": "Regular Home Loan Self-Employed",
+          "q_subheading_data": "9.15% p.a. onwards"
+        },
+        {
+          "q_heading_data": "Home Extension Loan",
+          "q_subheading_data": "8.95% p.a. onwards"
+        },
+        {
+          "q_heading_data": "Affordable Housing Loan",
+          "q_subheading_data": "10.10% onwards"
+        }
+      ],
+      "q2_mainheading": "Tata Capital Home Loan Documents Required",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Documents Required for Salaried/Self-Employed",
+          "q_subheading_data": "Employer Identity Card, Loan Application: Completed loan application form duly filled in affixed with 3 Passport size photographs, Proof of Identity (Any one): PAN/ Passport/ Driver’s License/ Voter ID card, Proof of Residence/ Address (Any one): Recent copy of Telephone Bill/ Electricity Bill/Water Bill/ Piped Gas Bill or copy of Passport/ Driving License/ Aadhaar Card"
+        },
+        {
+          "q_heading_data": "Property Papers",
+          "q_subheading_data": "Permission for construction (where applicable), Registered Agreement for Sale (only for Maharashtra)/Allotment Letter/Stamped Agreement for Sale, Occupancy Certificate (in case of ready to move property), Share Certificate (only for Maharashtra), Maintenance Bill, Electricity Bill, Property Tax Receipt, Approved Plan copy (Xerox Blueprint) & Registered Development Agreement of the builder, Conveyance Deed (For New Property), Payment Receipts or bank account statements showing all the payments made to builder/seller"
+        },
+        {
+          "q_heading_data": "Account Statement",
+          "q_subheading_data": "Last 6 months Bank Account Statements for all Bank Accounts held by the applicant/s, If any previous loan from other banks/lenders, then loan account statement for last 1 year"
+        },
+        {
+          "q_heading_data": "Income Proof for Non-Salaried Applicant/ Co-applicant/ Guarantor",
+          "q_subheading_data": "Business address proof, IT returns for last 3 years, Balance Sheet & Profit & Loss A/c for the last 3 years, Business License Details(or equivalent), TDS Certificate (Form 16A, if applicable), Certificate of qualification (for C.A./ Doctor and other professionals)"
+        }
+      ],
+      "q3_mainheading": "Tata Capital Home Loan Processing Fees and Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees & Charges"
+        },
+        {
+          "q_heading_data": "Processing fees",
+          "q_subheading_data": "0.50% of loan amount"
+        },
+        {
+          "q_heading_data": "Foreclosure charges",
+          "q_subheading_data": "No charges on paying off loan through own fund"
+        },
+        {
+          "q_heading_data": "Delayed EMI payments",
+          "q_subheading_data": "2% over the prevailing rate will apply for the period of delay"
+        },
+        {
+          "q_heading_data": "Legal charges",
+          "q_subheading_data": "On Actuals"
+        },
+        {
+          "q_heading_data": "Collection agency",
+          "q_subheading_data": "On Actuals"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Criteria",
+          "q_subheading_data": "Indian Residents/NRIs/PIOs, Salaried/Self Employed, Age: 24-65 Years, CIBIL/Credit Score: 750 and above, Minimum Monthly Income: Rs 30,000 for salaried, Work Experience: Minimum 2 years for salaried applicants, 3 years for self-employed and NRIs"
+        }
+      ],
+      "q4_mainheading": "Tata Capital Home Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "Axis Bank ",
+      "bank_decs": "Axis Bank is the third largest private sector bank in India. The Bank offers the entire spectrum of financial services to customer segments covering Large and Mid-Corporates, MSME, Agriculture and Retail Businesses.",
+      "bank_logo": "/bankimages/axislogo.jpg",
+      "q1_mainheading": "Axis Bank Home Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Loan Type",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Interest rates for Salaried Applicants Floating rate",
+          "q_subheading_data": "8.75%-9.15% p.a."
+        },
+        {
+          "q_heading_data": "Interest rates for Salaried Applicants Fixed-Rate",
+          "q_subheading_data": "14% p.a."
+        },
+        {
+          "q_heading_data": "Interest rates for Self-Employed Applicants Floating rate ",
+          "q_subheading_data": "8.85%-9.15% p.a."
+        },
+        {
+          "q_heading_data": "Interest rates for Self-Employed Applicants Fixed-rate ",
+          "q_subheading_data": "14% p.a."
+        }
+      ],
+      "q2_mainheading": "Documents Required for Axis Bank Home Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Application Form",
+          "q_subheading_data": "Duly filled application form "
+        },
+        {
+          "q_heading_data": "ID Proof",
+          "q_subheading_data": "Aadhaar card, passport, government employee ID, voter ID, driving license, photo ID issued by Government of India"
+        },
+        {
+          "q_heading_data": "Address proof",
+          "q_subheading_data": "Aadhaar card, passport, government employee ID, voter ID, driving license, photo ID issued by Government of India, electricity bill, telephone bill, gas bill, property tax receipt"
+        },
+        {
+          "q_heading_data": "Date of Birth Proof",
+          "q_subheading_data": "Passport, PAN Card, Aadhaar card, Birth certificate, SSC Marksheet"
+        },
+        {
+          "q_heading_data": "Signature Proof",
+          "q_subheading_data": "Passport, PAN Card, Banker’s verification, Notarized affidavit with address and ID proof"
+        },
+        {
+          "q_heading_data": "Income Proof-For Salaried",
+          "q_subheading_data": "Pay slip for 3 months, 2 years bonus proof or pay slip for 6 months, Bank statement for 6 month reflecting salary credits, Form 16 for 2 years"
+        },
+        {
+          "q_heading_data": "Income Proof-For NRI (Salaried)",
+          "q_subheading_data": "Pay slip for 3 months, Contract letter/appointment letter, Passport Copy, Valid,  copy, Overseas credit report, Continuous Discharge Certificate for shipping cases, International salary account statement for 6 months, Domestic/NRE/NRO account statement for 6 months"
+        },
+        {
+          "q_heading_data": "Income Proof-For Self-Employed",
+          "q_subheading_data": "ITR, income computation, P&L, balance sheet with CA seal and sign for 2 years (For Asha Home Loan- ITR, income computation, P&L, balance sheet with CA seal and sign for 1 year), Bank statement for personal and business accounts for 6 months, Business continuity proof for 3 years, Tax paid challan and CPC if ITR is filed with no digital signatures, Tax Audit Report (If gross turnover exceeds Rs 1 crore or gross receipt exceeds Rs 25 lakh)"
+        }
+      ],
+      "q3_mainheading": "AXIS Home Loan Processing Fee & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "For Salaried/Self-employed Professionals: Up to 0.50% of loan amount or Rs 3,000, whichever is higher, For Self-employed Non-Professionals: Up to 1.50% of loan amount or Rs 4,500, whichever is higher, For AXIS Reach Loan:, For Salaried/Self-employed: Up to 2% of loan amount + taxes, (Discounted processing fee of Rs 3,000)"
+        },
+        {
+          "q_heading_data": "Check Dishonour Charges",
+          "q_subheading_data": "Rs 300"
+        },
+        {
+          "q_heading_data": "List Of Documents",
+          "q_subheading_data": "Up to Rs 500"
+        },
+        {
+          "q_heading_data": "Photo Copy Of Documents",
+          "q_subheading_data": "Up to Rs 500 "
+        },
+        {
+          "q_heading_data": "PDC Swap",
+          "q_subheading_data": "Up to Rs 500 "
+        },
+        {
+          "q_heading_data": "Disbursement Cheque Cancellation Charge Post Disbursement",
+          "q_subheading_data": "Up to Rs 500 "
+        },
+        {
+          "q_heading_data": "Re-Appraisal Of Loan After 6 Months From Sanction",
+          "q_subheading_data": "Up to Rs 2,000 plus applicable taxes "
+        },
+        {
+          "q_heading_data": "Reversal of Provisional Prepayment under AXIS Maxvantage Scheme",
+          "q_subheading_data": "Rs.250"
+        },
+        {
+          "q_heading_data": "Prepayment Charges",
+          "q_subheading_data": "Adjustable Rate Loans (ARHL) and Combination Rate Home Loan (“CRHL”) during the period of applicability of the Variable Rate of interest- NIL,Fixed Rate Loans (“FRHL”) and Combination Rate Home Loan (“CRHL”) during the period of applicability of the Fixed Rate of interest- 2% + taxes"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "For Salaried",
+          "q_subheading_data": "The applicant should have a permanent service in a government or a reputed private sector organisation,The minimum age of the applicant should be above 21 years at the time of loan commencement,The maximum age of the applicant can be 60 years or superannuation, whichever comes earlier at the time of loan maturity."
+        },
+        {
+          "q_heading_data": "For Professionals",
+          "q_subheading_data": " Professionals such as doctors, dentists, architects, engineers, cost accountants, company secretaries, chartered accountants, and management consultants are eligible to apply for a home loan,The minimum age of the applicant should be above 21 years at the time of loan commencement,The maximum age of the applicant at the time of loan maturity should be 65 years."
+        },
+        {
+          "q_heading_data": "For Self-employed",
+          "q_subheading_data": "Any individual filing income tax returns can apply for Axis Bank Home Loans, The minimum age of the applicant should be above 21 years at the time of loan commencement, The maximum age of the applicant at the time of loan maturity should be 65 years."
+        },
+        {
+          "q_heading_data": "Genders",
+          "q_subheading_data": "All"
+        }
+      ],
+      "q4_mainheading": "Axis Bank Home Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "Kotak Mahindra Bank",
+      "bank_decs": "Kotak Mahindra Bank offers banking products and financial services for corporate and retail customers in the areas of personal finance, investment banking, life insurance, and wealth management.",
+      "Bank_logo": "/bankimages/kotaklogo.jpg",
+      "q1_mainheading": "Kotak Mahindra Bank Home Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Kotak Housing Loan For Salaried",
+          "q_subheading_data": "8.85%-9.35% p.a."
+        },
+        {
+          "q_heading_data": "Kotak Housing Loan For Self-employed",
+          "q_subheading_data": "8.90%-9.40% p.a"
+        },
+        {
+          "q_heading_data": "Kotak Home Loan Balance Transfer For Salaried",
+          "q_subheading_data": "8.85% onwards"
+        },
+        {
+          "q_heading_data": "Kotak Home Loan Balance Transfer Self-employed",
+          "q_subheading_data": "8.90% onwards"
+        }
+      ],
+      "q2_mainheading": "Kotak Mahindra Home Loan Documents Required",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "For Salaried",
+          "q_subheading_data": "Passport size photographs, A copy of PAN card (all applicants), A copy of Aadhaar card (all applicants), A copy of residence proof (all applicants), A copy of age proof, Income proof for salaried- 3-month salary slips (of all applicants whose income is considered), Form 16 and ITR of last 2 years (of all applicants whose income is considered), Last 6-months bank statement in original where salary credited (of all applicants whose income is considered), Last 6-months bank statement of any other bank a/c (of all applicants whose income is considered), Relationship proof, Details of the loan availed with a track record (if any existing loans), All property documents (chain) with sanction map"
+        },
+        {
+          "q_heading_data": "For Self Employed",
+          "q_subheading_data": "Passport size photographs, A copy of PAN card (all applicants), A copy of Aadhaar card (all applicants), A copy of residence proof (all applicants), Bank statement/ passbook for last 12 months (for applicants whose income is being considered for eligibility), Income proof and business continuity proof(Latest 3 years income tax returns, personal and business along with computation of income (2 years for Kotak Group customers), Latest 3 years profit and loss accounts and balance sheet with schedules duly certified by a chartered accountant. (2 years for Kotak Group customers), Degree certificate), Proof of the existence of partnership firm/ company/ HUF/ LLP(For partnership firm – Registered partnership deed and Letter from other partners stating, For Company – Memorandum, and Articles of association, For HUF – IT returns)"
+        }
+      ],
+      "q3_mainheading": "Kotak Mahindra Home Loan Processing Fees & Other Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees & Charges"
+        },
+        {
+          "q_heading_data": "Processing Fee",
+          "q_subheading_data": "Up to 1% of loan amount and Statutory Dues"
+        },
+        {
+          "q_heading_data": "Documentation Charges",
+          "q_subheading_data": "Up to Rs. 10,000"
+        },
+        {
+          "q_heading_data": "Commitment Feet",
+          "q_subheading_data": "2% of the undisbursed amount of the loan"
+        },
+        {
+          "q_heading_data": "Cheque Dishonour Charges",
+          "q_subheading_data": "Rs. 750 (inclusive of GST and other applicable statutory levies) per instance)"
+        },
+        {
+          "q_heading_data": "Charges for Copy of Documents",
+          "q_subheading_data": "Rs. 500 per instance"
+        },
+        {
+          "q_heading_data": "Repayment Mode I Account Swap Charges",
+          "q_subheading_data": "Rs. 500 per instance"
+        },
+        {
+          "q_heading_data": "Charges for Duplicate NOC I No Dues Certificate",
+          "q_subheading_data": "Rs. 500 per instance"
+        },
+        {
+          "q_heading_data": "Charges for Copy of CIBIL Report (to Customers who has availed Loan I Overdraft from us)",
+          "q_subheading_data": "Rs. 50 per instance"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Age:",
+          "q_subheading_data": "For Salaried: 18-60 years, For Self-employed: 18-65 years"
+        },
+        {
+          "q_heading_data": " Gross Income of Indian Resident",
+          "q_subheading_data": "At least Rs 20,000 per month for Delhi, Bangalore, Mumbai, Pune, Chennai, At least Rs 15,000 per month for other cities"
+        },
+        {
+          "q_heading_data": "Minimum Qualification",
+          "q_subheading_data": "For applicants working in private limited companies and partnership firms: Bachelor’s Degree, For applicants employed with public limited company or MNC or Government or public sector company: No minimum qualification"
+        },
+        {
+          "q_heading_data": "Eligibility For Home Improvement Loan",
+          "q_subheading_data": "Age, Monthly Income, Savings and Credit History, Qualification, Work Experience, Source of Income, Number of Dependents, Probability of Individual Continuing in same Occupation"
+        },
+        {
+          "q_heading_data": "Eligibility For NRI Home Loan",
+          "q_subheading_data": "Age: 58 years at the time of loan maturity, Should be a graduate and employed for at least 3 years, Minimum Income(For loan tenure up to 5 years annual gross salary should be(USA/UK/Other countries excluding gulf, USD 20,000 for,  Merchant Navy, Dirhams 36,000 for Gulf countries), For loan tenure above 5 years to 15 years(USD 42,000 for USA/UK/Other countries excluding gulf, USD 26,000 for Merchant Navy, Dirhams 48,000 for gulf countries))"
+        },
+        {
+          "q_heading_data": "Income Criteria",
+          "q_subheading_data": "A net annual income of Rs. 2,50,000 of the applicant and/or the co-applicant, Net Profit or Gross Taxable income of Rs. 4,00,000, A net annual income of Rs. 4,00,000 of the applicant and/or the co-applicant"
+        }
+      ],
+      "q4_mainheading": "Eligibility Criteria for Kotak Mahindra Bank Home Loan"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64429ae3f3a851a9304c1520"
+  },
+  "loan_name": "Gold Loan",
+  "loan_data": [
+    {
+      "bank_name": "HDFC Bank",
+      "bank_decs": "HDFC is India's premier housing finance company and enjoys an impeccable track record in India as well as in international markets. Since its inception in 1977, the Corporation has maintained a consistent and healthy growth in its operations to remain the market leader in mortgages.",
+      "bank_logo": "/bankimages/hdfclogo.jpg",
+      "q1_mainheading": "HDFC Bank Gold Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Rate of Interest (p.a.)"
+        },
+        {
+          "q_heading_data": "HDFC Bank",
+          "q_subheading_data": "9.90% onwards"
+        }
+      ],
+      "q2_mainheading": "Documents Required for HDFC Bank Gold Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Mendatory Documents",
+          "q_subheading_data": "Driving license, Passport, Voter’s ID, Ration card"
+        }
+      ],
+      "q3_mainheading": "HDFC Bank Gold Loan Processing Fees & Other Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing fees",
+          "q_subheading_data": "1.5% + GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Employee Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Profession",
+          "q_subheading_data": " Farmer, Trader, Salaried / Self-Employed professional, or businessman"
+        },
+        {
+          "q_heading_data": "Age",
+          "q_subheading_data": "18 to 75 years of age"
+        }
+      ],
+      "q4_mainheading": "HDFC Bank Gold Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "Axis Bank ",
+      "bank_decs": "Axis Bank is the third largest private sector bank in India. The Bank offers the entire spectrum of financial services to customer segments covering Large and Mid-Corporates, MSME, Agriculture and Retail Businesses.",
+      "bank_logo": "/bankimages/axislogo.jpg",
+      "q1_mainheading": "Axis Bank Gold loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Axis Bank",
+          "q_subheading_data": "12.50% p.a. onwards."
+        }
+      ],
+      "q2_mainheading": "Documents Required for Axis Bank Gold Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Mendatory Documents",
+          "q_subheading_data": "KYC documents to establish identity and address. Passport, Driving license, Voters’ ID Card, Aadhaar Card, PAN Card are accepted"
+        }
+      ],
+      "q3_mainheading": "AXIS Gold Loan Processing Fee & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "1% plus GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Profession",
+          "q_subheading_data": "Farmer, Trader, Salaried / Self-Employed professional, or businessman "
+        },
+        {
+          "q_heading_data": "Age",
+          "q_subheading_data": "18 to 75 years of age"
+        }
+      ],
+      "q4_mainheading": "Axis Bank Gold Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "State Bank of India ",
+      "bank_decs": "State Bank of India (SBI) a Fortune 500 company, is an Indian Multinational, Public Sector Banking and Financial services statutory body headquartered in Mumbai. The rich heritage and legacy of over 200 years, accredits SBI as the most trusted Bank by Indians through generations.",
+      "bank_logo": "/bankimages/sbilogo.jpg",
+      "q1_mainheading": "State Bank of India Gold loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "State Bank of India",
+          "q_subheading_data": "7.50% p.a. onwards"
+        }
+      ],
+      "q2_mainheading": "Documents Required for State Bank Of India Gold Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Mendatory Documents",
+          "q_subheading_data": "KYC documents to establish identity and address. Passport, Driving license, Voters’ ID Card, Aadhaar Card, PAN Card are accepted"
+        }
+      ],
+      "q3_mainheading": "State Bank of India Gold Loan Processing Fees & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "0.25% + GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Profession",
+          "q_subheading_data": "Farmer, Trader, Salaried / Self-Employed professional, or businessman "
+        },
+        {
+          "q_heading_data": "Age",
+          "q_subheading_data": "18 to 75 years of age"
+        }
+      ],
+      "q4_mainheading": "State Bank of India Gold Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "ICICI Bank ",
+      "bank_decs": "ICICI was formed in 1955 at the initiative of the World Bank, the Government of India and representatives of Indian industry. The principal objective was to create a development financial institution for providing medium-term and long-term project financing to Indian businesses.",
+      "bank_logo": "/bankimages/icicilogo.jpg",
+      "q1_mainheading": "ICICI Bank Gold loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "ICICI Bank",
+          "q_subheading_data": "11% p.a. onwards."
+        }
+      ],
+      "q2_mainheading": "Documents Required for ICICI Bank Gold Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Mendatory Documents",
+          "q_subheading_data": "KYC documents to establish identity and address. Passport, Driving license, Voters’ ID Card, Aadhaar Card, PAN Card are accepted"
+        }
+      ],
+      "q3_mainheading": "ICICI Bank Gold Loan Processing Fee & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "1% of the loan amount"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Profession",
+          "q_subheading_data": "Farmer, Trader, Salaried / Self-Employed professional, or businessman "
+        },
+        {
+          "q_heading_data": "Age",
+          "q_subheading_data": "18 to 75 years of age"
+        }
+      ],
+      "q4_mainheading": "ICICI Bank Gold Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "Canara Bank",
+      "bank_decs": "Widely known for customer centricity, Canara Bank was founded by Shri Ammembal Subba Rao Pai, a great visionary and philanthropist, in July 1906 The Bank has gone through the various phases of its growth trajectory over hundred years of its existence.",
+      "bank_logo": "/bankimages/canaralogo.jpg",
+      "q1_mainheading": "Canara Bank Gold loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Canara Bank",
+          "q_subheading_data": "7.65% p.a. onwards"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Canara Bank Gold Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Mendatory Documents",
+          "q_subheading_data": "KYC documents to establish identity and address. Passport, Driving license, Voters’ ID Card, Aadhaar Card, PAN Card are accepted"
+        }
+      ],
+      "q3_mainheading": "Canara Bank Gold Loan Processing Fee & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "0.25% of the loan amount"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Profession",
+          "q_subheading_data": "Farmer, Trader, Salaried / Self-Employed professional, or businessman "
+        },
+        {
+          "q_heading_data": "Age",
+          "q_subheading_data": "18 to 75 years of age"
+        }
+      ],
+      "q4_mainheading": "Canara Bank Gold Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "Bank of Baroda",
+      "bank_decs": "Bank of Baroda (BOB) established on July 20, 1908 is an Indian state-owned banking and financial services organization, headquartered in Vadodara (earlier known as Baroda), in Gujarat, India.",
+      "bank_logo": "/bankimages/boblogo.jpg",
+      "q1_mainheading": "Bank of Baroda Gold loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Bank of Baroda",
+          "q_subheading_data": "8.75% p.a."
+        }
+      ],
+      "q2_mainheading": "Documents Required for Bank of Baroda Gold Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Mendatory Documents",
+          "q_subheading_data": "KYC documents to establish identity and address. Passport, Driving license, Voters’ ID Card, Aadhaar Card, PAN Card are accepted"
+        }
+      ],
+      "q3_mainheading": "Bank of Baroda Gold Loan Processing Fee & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "0% to 0.50% + GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Profession",
+          "q_subheading_data": "Farmer, Trader, Salaried / Self-Employed professional, or businessman "
+        },
+        {
+          "q_heading_data": "Age",
+          "q_subheading_data": "18 to 75 years of age"
+        }
+      ],
+      "q4_mainheading": "Bank of Baroda Gold Loan Eligibility Criteria"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442a2fcf3a851a9304c152c"
+  },
+  "loan_name": "Education Loan",
+  "loan_data": [
+    {
+      "bank_name": "Bank of Baroda",
+      "bank_decs": "Bank of Baroda (BOB) established on July 20, 1908 is an Indian state-owned banking and financial services organization, headquartered in Vadodara (earlier known as Baroda), in Gujarat, India.",
+      "bank_logo": "/bankimages/boblogo.jpg",
+      "q1_mainheading": "Bank of Baroda Education Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Bank of Baroda",
+          "q_subheading_data": "8.50% onwards."
+        }
+      ],
+      "q2_mainheading": "Documents Required for Bank of Baroda Education Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Mendatory Documents Required from Student",
+          "q_subheading_data": "Application form (fully completed and signed), Two passport size photos (both Applicant and Co-Applicant), Letter of admission from the Institute (on its letterhead with the address of the Institute), Cost break-up of the educational program from the Institute (specifying the tuition fees- term-wise, year-wise and any other expenses involved), Academic record of the student:( 12th board mark sheet, Certificates of subsequent years of education- graduation and post-graduation (if any), Mark sheet of any entrance exam taken by the student (if applicable), Scholarship documents (if any)), Affidavit or Declaration that confirms that no loan has been availed from another bank or financial institution, ID Proof (any one of the following) : Passport, PAN card, Voter’s ID card, Driving License, Aadhaar card, etc., Address Proof (any one of the following) : Driving license, Ration card, Voter’s ID card, Passport, Aadhaar card, etc., Age proof (any one of the following) : Birth certificate or Class 10th certificate, Visa approval and travel papers"
+        },
+        {
+          "q_heading": "Documents Required from Co-applicant (if salaried)",
+          "q_subheading": "Address proof, Identity proof, Last 3 months salary slips or salary certificate on employer’s letterhead, Last 2 years Form 16 from employer or last 2 years Income Tax returns, Any other income proof that is not reflected in the above mentioned documents"
+        },
+        {
+          "q_heading": "Documents Required from Co-Applicant if Self-employed (Professionals/Individual)",
+          "q_subheading": "Address proof, Identity proof, Last 6 months bank statementl Last 2 years Income Tax Returns, Proof of office (any one of the following : lease deed, utility bill, title deed), Any other income proof that is not reflected in the above mentioned documents"
+        }
+      ],
+      "q3_mainheading": "Bank of Baroda Education Loan Processing Fee & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "0% to 0.50% + GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": " For Applicant and Co-applicant.",
+          "q_subheading_data": "You should be an Indian citizen, You should fall in the age bracket defined by the respective bank, You need to apply in a recognized college/institution, A good academic record helps with quick loan approval, You need to apply for the education loan with a co-applicant who has a regular source of income "
+        }
+      ],
+      "q4_mainheading": "Bank of Baroda Education Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "Canara Bank",
+      "bank_decs": "Widely known for customer centricity, Canara Bank was founded by Shri Ammembal Subba Rao Pai, a great visionary and philanthropist, in July 1906 The Bank has gone through the various phases of its growth trajectory over hundred years of its existence.",
+      "bank_logo": "/bankimages/canaralogo.jpg",
+      "q1_mainheading": "Bank of Baroda Education Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "For Vidhya Turant Loan Scheme",
+          "q_subheading_data": "6.60%"
+        },
+        {
+          "q_heading_data": "Up to Rs. 4 Lakh",
+          "q_subheading_data": "10.40%"
+        },
+        {
+          "q_heading_data": "Rs. 4 Lakhs to Rs. 7.50 Lakhs",
+          "q_subheading_data": "10.40%"
+        },
+        {
+          "q_heading_data": "Loans above Rs. 7.50 lakhs",
+          "q_subheading_data": "10.20%"
+        },
+        {
+          "q_heading_data": "IBA´s Model Loan scheme for Vocational Education & Training",
+          "q_subheading_data": "9.90%"
+        }
+      ],
+      "q2_mainheading": "Documents Required For Canara Bank Education Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Mendatory Documents Required from Student",
+          "q_subheading_data": "Application form (fully completed and signed), Two passport size photos (both Applicant and Co-Applicant), Letter of admission from the Institute (on its letterhead with the address of the Institute), Cost break-up of the educational program from the Institute (specifying the tuition fees- term-wise, year-wise and any other expenses involved), Academic record of the student:( 12th board mark sheet, Certificates of subsequent years of education- graduation and post-graduation (if any), Mark sheet of any entrance exam taken by the student (if applicable), Scholarship documents (if any)), Affidavit or Declaration that confirms that no loan has been availed from another bank or financial institution, ID Proof (any one of the following) : Passport, PAN card, Voter’s ID card, Driving License, Aadhaar card, etc., Address Proof (any one of the following) : Driving license, Ration card, Voter’s ID card, Passport, Aadhaar card, etc., Age proof (any one of the following) : Birth certificate or Class 10th certificate, Visa approval and travel papers"
+        },
+        {
+          "q_heading": "Documents Required from Co-applicant (if salaried)",
+          "q_subheading": "Address proof, Identity proof, Last 3 months salary slips or salary certificate on employer’s letterhead, Last 2 years Form 16 from employer or last 2 years Income Tax returns, Any other income proof that is not reflected in the above mentioned documents"
+        },
+        {
+          "q_heading": "Documents Required from Co-Applicant if Self-employed (Professionals/Individual)",
+          "q_subheading": "Address proof, Identity proof, Last 6 months bank statementl Last 2 years Income Tax Returns, Proof of office (any one of the following : lease deed, utility bill, title deed), Any other income proof that is not reflected in the above mentioned documents"
+        }
+      ],
+      "q3_mainheading": "Canara Bank Education Loan Processing Fee & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "0% to 0.50% + GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": " For Applicant and Co-applicant.",
+          "q_subheading_data": "You should be an Indian citizen, You should fall in the age bracket defined by the respective bank, You need to apply in a recognized college/institution, A good academic record helps with quick loan approval, You need to apply for the education loan with a co-applicant who has a regular source of income "
+        }
+      ],
+      "q4_mainheading": "Canara Bank Education Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "Kotak Mahindra Bank",
+      "bank_decs": "It offers banking products and financial services for corporate and retail customers in the areas of personal finance, investment banking, life insurance, and wealth management.",
+      "bank_logo": "/bankimages/kotaklogo.jpg",
+      "q1_mainheading": "Bank of Baroda Education Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "For all loan types and amounts",
+          "q_subheading_data": "11.5% to 24%"
+        }
+      ],
+      "q2_mainheading": "Documents Required For Canara Bank Education Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Mendatory Documents Required from Student",
+          "q_subheading_data": "Application form (fully completed and signed), Two passport size photos (both Applicant and Co-Applicant), Letter of admission from the Institute (on its letterhead with the address of the Institute), Cost break-up of the educational program from the Institute (specifying the tuition fees- term-wise, year-wise and any other expenses involved), Academic record of the student:( 12th board mark sheet, Certificates of subsequent years of education- graduation and post-graduation (if any), Mark sheet of any entrance exam taken by the student (if applicable), Scholarship documents (if any)), Affidavit or Declaration that confirms that no loan has been availed from another bank or financial institution, ID Proof (any one of the following) : Passport, PAN card, Voter’s ID card, Driving License, Aadhaar card, etc., Address Proof (any one of the following) : Driving license, Ration card, Voter’s ID card, Passport, Aadhaar card, etc., Age proof (any one of the following) : Birth certificate or Class 10th certificate, Visa approval and travel papers"
+        },
+        {
+          "q_heading": "Documents Required from Co-applicant (if salaried)",
+          "q_subheading": "Address proof, Identity proof, Last 3 months salary slips or salary certificate on employer’s letterhead, Last 2 years Form 16 from employer or last 2 years Income Tax returns, Any other income proof that is not reflected in the above mentioned documents"
+        },
+        {
+          "q_heading": "Documents Required from Co-Applicant if Self-employed (Professionals/Individual)",
+          "q_subheading": "Address proof, Identity proof, Last 6 months bank statementl Last 2 years Income Tax Returns, Proof of office (any one of the following : lease deed, utility bill, title deed), Any other income proof that is not reflected in the above mentioned documents"
+        }
+      ],
+      "q3_mainheading": "Canara Bank Education Loan Processing Fee & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing Fees",
+          "q_subheading_data": "0% to 0.50% + GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": " For Applicant and Co-applicant.",
+          "q_subheading_data": "You should be an Indian citizen, You should fall in the age bracket defined by the respective bank, You need to apply in a recognized college/institution, A good academic record helps with quick loan approval, You need to apply for the education loan with a co-applicant who has a regular source of income "
+        }
+      ],
+      "q4_mainheading": "Canara Bank Education Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "HDFC Bank",
+      "bank_decs": "HDFC is India's premier housing finance company and enjoys an impeccable track record in India as well as in international markets. Since its inception in 1977, the Corporation has maintained a consistent and healthy growth in its operations to remain the market leader in mortgages.",
+      "bank_logo": "/bankimages/hdfclogo.jpg",
+      "q1_mainheading": "HDFC Bank Education Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Rate of Interest (p.a.)"
+        },
+        {
+          "q_heading_data": "Minimum APR",
+          "q_subheading_data": "9.00%"
+        },
+        {
+          "q_heading_data": "Maximum APR",
+          "q_subheading_data": "13.86%"
+        },
+        {
+          "q_heading_data": "Average APR",
+          "q_subheading_data": "11.57%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for HDFC Bank Education Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Documents Required from Student",
+          "q_subheading_data": "Application form (fully completed and signed), Two passport size photos (both Applicant and Co-Applicant), Letter of admission from the Institute (on its letterhead with the address of the Institute), Cost break-up of the educational program from the Institute (specifying the tuition fees- term-wise, year-wise and any other expenses involved), Academic record of the student(12th board mark sheet, Certificates of subsequent years of education- graduation and post-graduation (if any), Mark sheet of any entrance exam taken by the student (if applicable), Scholarship documents (if any)), Affidavit or Declaration that confirms that no loan has been availed from another bank or financial institution, ID Proof (any one of the following) : Passport, PAN card, Voter’s ID card, Driving License, Aadhaar card, etc., Address Proof (any one of the following) : Driving license, Ration card, Voter’s ID card, Passport, Aadhaar card, etc., Age proof (any one of the following) : Birth certificate or Class 10th certificate, Visa approval and travel papers"
+        },
+        {
+          "q_heading_data": "Documents Required from Co-applicant (if salaried)",
+          "q_subheading_data": "Address proof, Identity proof, Last 3 months salary slips or salary certificate on employer’s letterhead, Last 2 years Form 16 from employer or last 2 years Income Tax returns, Any other income proof that is not reflected in the above mentioned documents"
+        },
+        {
+          "q_heading_data": "Documents Required from Co-Applicant if Self-employed (Professionals/Individual)",
+          "q_subheading_data": "Address proof, Identity proof, Last 6 months bank statement, Last 2 years Income Tax Returns, Proof of office (any one of the following : lease deed, utility bill, title deed), Any other income proof that is not reflected in the above mentioned documents"
+        }
+      ],
+      "q3_mainheading": "HDFC Bank Education Loan Processing Fees & Other Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing fees",
+          "q_subheading_data": "1.5% + GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "For applicant and co-applicant",
+          "q_subheading_data": "You should be an Indian citizen, You should fall in the age bracket defined by the respective bank, You need to apply in a recognized college/institution, A good academic record helps with quick loan approval, You need to apply for the education loan with a co-applicant who has a regular source of income"
+        }
+      ],
+      "q4_mainheading": "HDFC Bank Education Loan Eligibility Criteria"
+    },
+    {
+      "bank_name": "State Bank of India",
+      "bank_decs": "tate Bank of India (SBI) a Fortune 500 company, is an Indian Multinational, Public Sector Banking and Financial services statutory body headquartered in Mumbai. The rich heritage and legacy of over 200 years, accredits SBI as the most trusted Bank by Indians through generations.",
+      "bank_logo": "/bankimages/sbilogo.jpg",
+      "q1_mainheading": "State Bank of India Education Loan Interest Rates",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Rate of Interest (p.a.)"
+        },
+        {
+          "q_heading_data": "Up to Rs. 7.5 Lakhs",
+          "q_subheading_data": "10.25%"
+        },
+        {
+          "q_heading_data": "Above Rs. 7.5 Lakhs",
+          "q_subheading_data": "10.50%"
+        }
+      ],
+      "q2_mainheading": "Documents Required for State Bank of India Education Loan",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Documents Required from Student",
+          "q_subheading_data": "Application form (fully completed and signed), Two passport size photos (both Applicant and Co-Applicant), Letter of admission from the Institute (on its letterhead with the address of the Institute), Cost break-up of the educational program from the Institute (specifying the tuition fees- term-wise, year-wise and any other expenses involved), Academic record of the student(12th board mark sheet, Certificates of subsequent years of education- graduation and post-graduation (if any), Mark sheet of any entrance exam taken by the student (if applicable), Scholarship documents (if any)), Affidavit or Declaration that confirms that no loan has been availed from another bank or financial institution, ID Proof (any one of the following) : Passport, PAN card, Voter’s ID card, Driving License, Aadhaar card, etc., Address Proof (any one of the following) : Driving license, Ration card, Voter’s ID card, Passport, Aadhaar card, etc., Age proof (any one of the following) : Birth certificate or Class 10th certificate, Visa approval and travel papers"
+        },
+        {
+          "q_heading_data": "Documents Required from Co-applicant (if salaried)",
+          "q_subheading_data": "Address proof, Identity proof, Last 3 months salary slips or salary certificate on employer’s letterhead, Last 2 years Form 16 from employer or last 2 years Income Tax returns, Any other income proof that is not reflected in the above mentioned documents"
+        },
+        {
+          "q_heading_data": "Documents Required from Co-Applicant if Self-employed (Professionals/Individual)",
+          "q_subheading_data": "Address proof, Identity proof, Last 6 months bank statement, Last 2 years Income Tax Returns, Proof of office (any one of the following : lease deed, utility bill, title deed), Any other income proof that is not reflected in the above mentioned documents"
+        }
+      ],
+      "q3_mainheading": "State Bank of India Education Loan Processing Fees & Other Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Processing fees",
+          "q_subheading_data": "1.5% + GST"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "For applicant and co-applicant",
+          "q_subheading_data": "You should be an Indian citizen, You should fall in the age bracket defined by the respective bank, You need to apply in a recognized college/institution, A good academic record helps with quick loan approval, You need to apply for the education loan with a co-applicant who has a regular source of income"
+        }
+      ],
+      "q4_mainheading": "State Bank of India Education Loan Eligibility Criteria"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442db413bc843fe1cf02c61"
+  },
+  "loan_name": "Loan Against LIC Policies",
+  "loan_data": [
+    {
+      "bank_name": "Bajaj Finserv",
+      "bank_decs": "Bajaj Finserv Ltd., an unregistered Core Investment Company (CIC) under Core Investment Companies (Reserve Bank) Direction, 2016, as amended, is one of India's leading promoters of financial services with a consolidated total income of over Rs. 77,000 crore for the calendar year 2022.",
+      "bank_logo": "/bankimages/bajajlogo.jpg",
+      "q1_mainheading": "Bajaj Finserv Loan Against LIC Policy",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Bajaj Finserv",
+          "q_subheading_data": "13% onwards"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Bajaj Finserv Loan Against LIC Policy",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Documents Required",
+          "q_subheading_data": "Duly filled application form along with passport-sized photographs, Original policy document, Proof of identity: Aadhaar Card, Passport, Voter ID Card, Passport, Proof of residence: Aadhaar Card, Voter ID Card, Driving License, Utility Bills (water or electricity), Proof of income: Salary Slips, Bank Account Statement, Any other document required by LIC"
+        }
+      ],
+      "q3_mainheading": "Bajaj Finserv Loan Against LIC Policy Processing Fees & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "NIL",
+          "q_subheading_data": "NIL"
+        },
+        {
+          "q_heading_data": "NIL",
+          "q_subheading_data": "NIL"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": " for those opting for a loan against LIC policy.",
+          "q_subheading_data": "Minimum age of the applicant should be 18 years, Applicant must have a valid LIC policy, The LIC policy used for obtaining loan has guaranteed surrender value, At least 3 years of LIC premium has to be paid in full"
+        }
+      ],
+      "q4_mainheading": "Bajaj Finserv Loan Against LIC Policy Eligibility Criteria"
+    },
+    {
+      "bank_name": "Axis Bank",
+      "bank_decs": "Axis Bank is the third largest private sector bank in India. The Bank offers the entire spectrum of financial services to customer segments covering Large and Mid-Corporates, MSME, Agriculture and Retail Businesses.",
+      "bank_logo": "/bankimages/axislogo.jpg",
+      "q1_mainheading": "Axis Bank Loan Against LIC Policy",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Axis Bank",
+          "q_subheading_data": "10.25% p.a. onwards"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Axis Bank Loan Against LIC Policy",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Documents Required",
+          "q_subheading_data": "Duly filled application form along with passport-sized photographs, Original policy document, Proof of identity: Aadhaar Card, Passport, Voter ID Card, Passport, Proof of residence: Aadhaar Card, Voter ID Card, Driving License, Utility Bills (water or electricity), Proof of income: Salary Slips, Bank Account Statement, Any other document required by LIC"
+        }
+      ],
+      "q3_mainheading": "Axis Bank Loan Against LIC Policy Processing Fee & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "NIL",
+          "q_subheading_data": "NIL"
+        },
+        {
+          "q_heading_data": "NIL",
+          "q_subheading_data": "NIL"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": " for those opting for a loan against LIC policy.",
+          "q_subheading_data": "Minimum age of the applicant should be 18 years, Applicant must have a valid LIC policy, The LIC policy used for obtaining loan has guaranteed surrender value, At least 3 years of LIC premium has to be paid in full"
+        }
+      ],
+      "q4_mainheading": "Axis Bank Loan Against LIC Policy Eligibility Criteria"
+    },
+    {
+      "bank_name": "Kotak Mahindra Bank",
+      "bank_decs": "Kotak Mahindra Bank Limited is an Indian banking and financial services company headquartered in Mumbai. It offers banking products and financial services for corporate and retail customers in the areas of personal finance, investment banking, life insurance, and wealth management.",
+      "bank_logo": "/bankimages/kotaklogo.jpg",
+      "q1_mainheading": "Kotak Mahindra Bank Loan Against LIC Policy",
+      "q1": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rates (p.a.)"
+        },
+        {
+          "q_heading_data": "Kotak Mahindra Bank",
+          "q_subheading_data": "10.75% onwards"
+        }
+      ],
+      "q2_mainheading": "Documents Required for Kotak Mahindra Bank Loan Against LIC Policy",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "Documents Required",
+          "q_subheading_data": "Duly filled application form along with passport-sized photographs, Original policy document, Proof of identity: Aadhaar Card, Passport, Voter ID Card, Passport, Proof of residence: Aadhaar Card, Voter ID Card, Driving License, Utility Bills (water or electricity), Proof of income: Salary Slips, Bank Account Statement, Any other document required by LIC"
+        }
+      ],
+      "q3_mainheading": "Kotak Mahindra Bank Loan Against LIC Policy Processing Fees & Charges",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "NIL",
+          "q_subheading_data": "NIL"
+        },
+        {
+          "q_heading_data": "NIL",
+          "q_subheading_data": "NIL"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": " for those opting for a loan against LIC policy.",
+          "q_subheading_data": "Minimum age of the applicant should be 18 years, Applicant must have a valid LIC policy, The LIC policy used for obtaining loan has guaranteed surrender value, At least 3 years of LIC premium has to be paid in full"
+        }
+      ],
+      "q4_mainheading": "Kotak Mahindra Bank Loan Against LIC Policy Eligibility Criteria"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442df2c3bc843fe1cf02c67"
+  },
+  "loan_name": "Loan Against Fixed Deposit",
+  "loan_data": [
+    {
+      "bank_name": "Axis Bank",
+      "bank_decs": "Axis Bank is the third largest private sector bank in India. The Bank offers the entire spectrum of financial services to customer segments covering Large and Mid-Corporates, MSME, Agriculture and Retail Businesses.",
+      "bank_logo": "/bankimages/axislogo.jpg",
+      "q1_mainheading": "Loan Limit in Axis Bank",
+      "q1": [
+        {
+          "q_heading": "Loan Limit",
+          "q_subheading": "Up to 85%"
+        }
+      ],
+      "q2_mainheading": "the interest rate charged for a loan against FD",
+      "q2": [
+        {
+          "q_heading": "Category",
+          "q_subheading": "Interest Rate"
+        },
+        {
+          "q_heading_data": "the applicable FD interest rates",
+          "q_subheading_data": "usually charge 0.5% to 2%"
+        }
+      ],
+      "q3_mainheading": "Charges or fees charged on Axis Bank Loan against FD",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Prepayment Charges",
+          "q_subheading_data": "No prepayment charges"
+        },
+        {
+          "q_heading_data": "processing fees",
+          "q_subheading_data": "No  processing fees"
+        },
+        {
+          "q_heading_data": "renewal charges",
+          "q_subheading_data": "No renewal charges (of overdraft facility)"
+        },
+        {
+          "q_heading_data": "Interest charged",
+          "q_subheading_data": "@ 2% above the Axis Bank FD rates"
+        },
+        {
+          "q_heading_data": "charges on cash withdrawal",
+          "q_subheading_data": "Zero charges on cash withdrawal from the home branch"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Criteria for availing Loan against FD",
+          "q_subheading_data": "Loan against fixed deposits is extended to all the fixed deposit holders, be it individual holders or those with joint accounts, FD in the name of a minor does not qualify for this facility, Investors of a 5-year tax-saving FD cannot apply for this type of loan"
+        }
+      ],
+      "q4_mainheading": "Bajaj Finserv Loan Against LIC Policy Eligibility Criteria"
+    },
+    {
+      "bank_name": "State Bank of India",
+      "bank_decs": "State Bank of India (SBI) a Fortune 500 company, is an Indian Multinational, Public Sector Banking and Financial services statutory body headquartered in Mumbai. The rich heritage and legacy of over 200 years, accredits SBI as the most trusted Bank by Indians through generations.",
+      "bank_logo": "/bankimages/sbilogo.jpg",
+      "q1_mainheading": "Loan Limit in State Bank of India",
+      "q1": [
+        {
+          "q_heading": "Loan Limit",
+          "q_subheading": "Up to 90%"
+        }
+      ],
+      "q2_mainheading": "SBI Loan against FD – Interest Rates 2023",
+      "q2": [
+        {
+          "q_heading": "Type of Time Deposit",
+          "q_subheading": "Interest Rate"
+        },
+        {
+          "q_heading_data": "Domestic Time/Fixed Deposit",
+          "q_subheading_data": "1% over the interest rate paid to the depositor"
+        },
+        {
+          "q_heading_data": "NRE Fixed Deposit",
+          "q_subheading_data": "1% over the interest rate paid to the depositor"
+        },
+        {
+          "q_heading_data": "NRO Fixed Deposit",
+          "q_subheading_data": "1% over the interest rate paid to the depositor"
+        },
+        {
+          "q_heading_data": "FCNR (B) Deposit",
+          "q_subheading_data": "2.90% above the 1-year MCLR* (currently, MCLR for 1 year is 7.90%)"
+        }
+      ],
+      "q3_mainheading": "Charges or fees charged on State Bank of India Loan against FD",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Prepayment Charges",
+          "q_subheading_data": "No prepayment charges"
+        },
+        {
+          "q_heading_data": "processing fees",
+          "q_subheading_data": "No  processing fees"
+        },
+        {
+          "q_heading_data": "renewal charges",
+          "q_subheading_data": "No renewal charges (of overdraft facility)"
+        },
+        {
+          "q_heading_data": "Interest charged",
+          "q_subheading_data": "@ 2% above the Axis Bank FD rates"
+        },
+        {
+          "q_heading_data": "charges on cash withdrawal",
+          "q_subheading_data": "Zero charges on cash withdrawal from the home branch"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Criteria for availing Loan against FD",
+          "q_subheading_data": "Single or joint account holders holding SBI’s Fixed Deposits are eligible to avail of this loan. Single account holders can also get overdraft facilities through net banking against their TDR and STDR. This can easily be done online for which depositors need to open an overdraft account. n the case of joint holders, each and every member has to approve the loan request before the application is processed by the bank. In case, the request application is not signed by even one of the members, the bank can disapprove the application and the loan would not be sanctioned."
+        }
+      ],
+      "q4_mainheading": "SBI Loan against FD – Eligibility Criteria"
+    },
+    {
+      "bank_name": "Bank of Baroda",
+      "bank_decs": "Bank of Baroda (BOB or BoB) is an Indian public sector bank headquartered in Vadodara, Gujarat. It is the second largest public sector bank in India after State Bank of India, with 153 million customers, a total business of US$218 billion, and a global presence of 100 overseas offices.",
+      "bank_logo": "/bankimages/boblogo.jpg",
+      "q1_mainheading": "Loan Limit in Bank of Baroda",
+      "q1": [
+        {
+          "q_heading": "Loan Limit",
+          "q_subheading": "Up to 95%"
+        }
+      ],
+      "q2_mainheading": "Documents Required to Apply for BOB Loan against FD",
+      "q2": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "To make a successful application, the following documents must be submitted",
+          "q_subheading_data": "Fixed deposit receipts of your account with Bank of Baroda, Loan application form, duly filled and attested, The duly signed loan agreement"
+        }
+      ],
+      "q3_mainheading": "Charges or fees charged on State Bank of India Loan against FD",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Prepayment Charges",
+          "q_subheading_data": "No prepayment charges"
+        },
+        {
+          "q_heading_data": "processing fees",
+          "q_subheading_data": "No  processing fees"
+        },
+        {
+          "q_heading_data": "renewal charges",
+          "q_subheading_data": "No renewal charges (of overdraft facility)"
+        },
+        {
+          "q_heading_data": "Interest charged",
+          "q_subheading_data": "@ 2% above the Axis Bank FD rates"
+        },
+        {
+          "q_heading_data": "charges on cash withdrawal",
+          "q_subheading_data": "Zero charges on cash withdrawal from the home branch"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Who can apply for BOB Loan against FD",
+          "q_subheading_data": "The applicant must be a citizen of India, The applicant should be able to produce a valid Bank of Baroda Fixed Deposit account"
+        }
+      ],
+      "q4_mainheading": "BOB Loan against FD – Eligibility Criteria"
+    },
+    {
+      "bank_name": "Citibank",
+      "bank_decs": "Citi began operations in India over a century ago in 1902. As promoter-shareholder, Citi has played a leading role in establishing important market intermediaries such as depositories, credit bureau, clearing and payment institutions.",
+      "bank_logo": "/bankimages/citilogo.jpg",
+      "q1_mainheading": "Loan Limit in Citibank",
+      "q1": [
+        {
+          "q_heading": "Loan Limit ",
+          "q_subheading": "Up to 90%"
+        }
+      ],
+      "q2_mainheading": "Documents Required to Apply for BOB Loan against FD",
+      "q2": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Documents"
+        },
+        {
+          "q_heading_data": "To make a successful application, the following documents must be submitted",
+          "q_subheading_data": "Fixed deposit receipts of your account with Bank of Baroda, Loan application form, duly filled and attested, The duly signed loan agreement"
+        }
+      ],
+      "q3_mainheading": "Charges or fees charged on Citibank Loan against FD",
+      "q3": [
+        {
+          "q_heading": "Perticulars",
+          "q_subheading": "Fees and Charges"
+        },
+        {
+          "q_heading_data": "Prepayment Charges",
+          "q_subheading_data": "No prepayment charges"
+        },
+        {
+          "q_heading_data": "processing fees",
+          "q_subheading_data": "No  processing fees"
+        },
+        {
+          "q_heading_data": "renewal charges",
+          "q_subheading_data": "No renewal charges (of overdraft facility)"
+        },
+        {
+          "q_heading_data": "Interest charged",
+          "q_subheading_data": "@ 2% above the Axis Bank FD rates"
+        },
+        {
+          "q_heading_data": "charges on cash withdrawal",
+          "q_subheading_data": "Zero charges on cash withdrawal from the home branch"
+        }
+      ],
+      "q4": [
+        {
+          "q_heading": "Type",
+          "q_subheading": "Eligibility Criteria"
+        },
+        {
+          "q_heading_data": "Who can get Citibank Loan against FD",
+          "q_subheading_data": "Resident individuals above the age of 21 years, Sole proprietorship & Partnership Firms, Limited companies, Public limited companies, Stock brokers"
+        }
+      ],
+      "q4_mainheading": "Citibank Loan against FD – Eligibility Criteria"
+    }
+  ],
+  "__v": 0
+}]
